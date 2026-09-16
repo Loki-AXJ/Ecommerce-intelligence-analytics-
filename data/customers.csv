@@ -1,1 +1,1001 @@
-adfds
+customer_id,customer_name,email,gender,city,state,signup_date,acquisition_channel
+1,Customer_1,customer_1@example.com,Female,Bengaluru,Karnataka,2024-01-26,Paid Ads
+2,Customer_2,customer_2@example.com,Male,Hyderabad,Telangana,2024-05-22,Email
+3,Customer_3,customer_3@example.com,Female,Bengaluru,Karnataka,2025-08-27,Organic Search
+4,Customer_4,customer_4@example.com,Male,Mumbai,Maharashtra,2024-04-05,Paid Ads
+5,Customer_5,customer_5@example.com,Male,Mumbai,Maharashtra,2025-07-28,Email
+6,Customer_6,customer_6@example.com,Female,Pune,Maharashtra,2024-08-13,Email
+7,Customer_7,customer_7@example.com,Male,Chennai,Tamil Nadu,2024-01-07,Referral
+8,Customer_8,customer_8@example.com,Male,Kolkata,West Bengal,2024-10-11,Paid Ads
+9,Customer_9,customer_9@example.com,Male,Kolkata,West Bengal,2024-04-14,Referral
+10,Customer_10,customer_10@example.com,Female,Bengaluru,Karnataka,2025-01-02,Email
+11,Customer_11,customer_11@example.com,Female,Chennai,Tamil Nadu,2024-02-14,Email
+12,Customer_12,customer_12@example.com,Male,Bengaluru,Karnataka,2025-01-22,Email
+13,Customer_13,customer_13@example.com,Female,Chennai,Tamil Nadu,2025-10-05,Email
+14,Customer_14,customer_14@example.com,Male,Hyderabad,Telangana,2025-12-22,Organic Search
+15,Customer_15,customer_15@example.com,Male,Hyderabad,Telangana,2024-10-23,Paid Ads
+16,Customer_16,customer_16@example.com,Female,Bengaluru,Karnataka,2025-01-24,Referral
+17,Customer_17,customer_17@example.com,Female,Kolkata,West Bengal,2024-06-15,Social Media
+18,Customer_18,customer_18@example.com,Female,Hyderabad,Telangana,2025-11-17,Organic Search
+19,Customer_19,customer_19@example.com,Male,Delhi,Delhi,2025-06-30,Paid Ads
+20,Customer_20,customer_20@example.com,Female,Ahmedabad,Gujarat,2025-01-23,Email
+21,Customer_21,customer_21@example.com,Female,Hyderabad,Telangana,2025-12-02,Organic Search
+22,Customer_22,customer_22@example.com,Female,Hyderabad,Telangana,2024-02-02,Referral
+23,Customer_23,customer_23@example.com,Male,Chennai,Tamil Nadu,2024-03-08,Email
+24,Customer_24,customer_24@example.com,Female,Kolkata,West Bengal,2024-08-05,Referral
+25,Customer_25,customer_25@example.com,Female,Ahmedabad,Gujarat,2024-05-26,Paid Ads
+26,Customer_26,customer_26@example.com,Female,Hyderabad,Telangana,2025-07-28,Email
+27,Customer_27,customer_27@example.com,Female,Pune,Maharashtra,2025-08-20,Social Media
+28,Customer_28,customer_28@example.com,Female,Hyderabad,Telangana,2024-05-21,Organic Search
+29,Customer_29,customer_29@example.com,Male,Mumbai,Maharashtra,2024-04-22,Paid Ads
+30,Customer_30,customer_30@example.com,Male,Pune,Maharashtra,2025-09-02,Referral
+31,Customer_31,customer_31@example.com,Female,Pune,Maharashtra,2025-09-02,Email
+32,Customer_32,customer_32@example.com,Male,Chennai,Tamil Nadu,2025-07-20,Organic Search
+33,Customer_33,customer_33@example.com,Female,Chennai,Tamil Nadu,2025-10-18,Organic Search
+34,Customer_34,customer_34@example.com,Male,Chennai,Tamil Nadu,2025-03-21,Referral
+35,Customer_35,customer_35@example.com,Male,Mumbai,Maharashtra,2024-09-26,Email
+36,Customer_36,customer_36@example.com,Female,Bengaluru,Karnataka,2025-10-02,Email
+37,Customer_37,customer_37@example.com,Female,Hyderabad,Telangana,2024-06-05,Paid Ads
+38,Customer_38,customer_38@example.com,Female,Mumbai,Maharashtra,2025-09-05,Referral
+39,Customer_39,customer_39@example.com,Female,Mumbai,Maharashtra,2024-04-24,Social Media
+40,Customer_40,customer_40@example.com,Male,Hyderabad,Telangana,2024-02-29,Email
+41,Customer_41,customer_41@example.com,Female,Bengaluru,Karnataka,2024-03-28,Organic Search
+42,Customer_42,customer_42@example.com,Female,Delhi,Delhi,2024-05-11,Email
+43,Customer_43,customer_43@example.com,Female,Delhi,Delhi,2024-09-28,Paid Ads
+44,Customer_44,customer_44@example.com,Female,Hyderabad,Telangana,2025-12-31,Referral
+45,Customer_45,customer_45@example.com,Female,Kolkata,West Bengal,2025-03-24,Organic Search
+46,Customer_46,customer_46@example.com,Male,Hyderabad,Telangana,2024-08-18,Social Media
+47,Customer_47,customer_47@example.com,Male,Mumbai,Maharashtra,2025-08-25,Email
+48,Customer_48,customer_48@example.com,Male,Hyderabad,Telangana,2024-01-08,Organic Search
+49,Customer_49,customer_49@example.com,Male,Hyderabad,Telangana,2024-03-10,Social Media
+50,Customer_50,customer_50@example.com,Male,Bengaluru,Karnataka,2025-06-10,Social Media
+51,Customer_51,customer_51@example.com,Male,Ahmedabad,Gujarat,2024-08-07,Email
+52,Customer_52,customer_52@example.com,Female,Ahmedabad,Gujarat,2024-09-05,Referral
+53,Customer_53,customer_53@example.com,Male,Hyderabad,Telangana,2024-04-06,Referral
+54,Customer_54,customer_54@example.com,Female,Kolkata,West Bengal,2025-03-09,Referral
+55,Customer_55,customer_55@example.com,Male,Mumbai,Maharashtra,2025-11-20,Organic Search
+56,Customer_56,customer_56@example.com,Male,Pune,Maharashtra,2024-12-13,Paid Ads
+57,Customer_57,customer_57@example.com,Female,Hyderabad,Telangana,2024-07-13,Paid Ads
+58,Customer_58,customer_58@example.com,Female,Pune,Maharashtra,2024-07-06,Referral
+59,Customer_59,customer_59@example.com,Female,Hyderabad,Telangana,2024-03-18,Email
+60,Customer_60,customer_60@example.com,Male,Bengaluru,Karnataka,2024-02-21,Organic Search
+61,Customer_61,customer_61@example.com,Female,Hyderabad,Telangana,2024-06-19,Referral
+62,Customer_62,customer_62@example.com,Female,Ahmedabad,Gujarat,2024-08-06,Organic Search
+63,Customer_63,customer_63@example.com,Male,Delhi,Delhi,2025-01-23,Referral
+64,Customer_64,customer_64@example.com,Female,Chennai,Tamil Nadu,2025-04-10,Referral
+65,Customer_65,customer_65@example.com,Male,Ahmedabad,Gujarat,2024-06-07,Social Media
+66,Customer_66,customer_66@example.com,Male,Hyderabad,Telangana,2024-02-29,Social Media
+67,Customer_67,customer_67@example.com,Female,Mumbai,Maharashtra,2024-02-21,Email
+68,Customer_68,customer_68@example.com,Male,Delhi,Delhi,2024-02-28,Paid Ads
+69,Customer_69,customer_69@example.com,Male,Bengaluru,Karnataka,2025-09-01,Paid Ads
+70,Customer_70,customer_70@example.com,Male,Pune,Maharashtra,2024-05-02,Email
+71,Customer_71,customer_71@example.com,Male,Mumbai,Maharashtra,2025-09-26,Referral
+72,Customer_72,customer_72@example.com,Male,Kolkata,West Bengal,2024-09-24,Social Media
+73,Customer_73,customer_73@example.com,Female,Hyderabad,Telangana,2024-09-28,Paid Ads
+74,Customer_74,customer_74@example.com,Female,Chennai,Tamil Nadu,2025-04-13,Organic Search
+75,Customer_75,customer_75@example.com,Male,Mumbai,Maharashtra,2025-04-14,Organic Search
+76,Customer_76,customer_76@example.com,Female,Hyderabad,Telangana,2025-06-02,Paid Ads
+77,Customer_77,customer_77@example.com,Male,Kolkata,West Bengal,2024-03-11,Social Media
+78,Customer_78,customer_78@example.com,Female,Chennai,Tamil Nadu,2024-06-10,Email
+79,Customer_79,customer_79@example.com,Male,Chennai,Tamil Nadu,2025-09-18,Email
+80,Customer_80,customer_80@example.com,Male,Chennai,Tamil Nadu,2025-11-10,Paid Ads
+81,Customer_81,customer_81@example.com,Male,Chennai,Tamil Nadu,2024-04-28,Email
+82,Customer_82,customer_82@example.com,Female,Delhi,Delhi,2024-10-05,Email
+83,Customer_83,customer_83@example.com,Male,Hyderabad,Telangana,2024-12-17,Social Media
+84,Customer_84,customer_84@example.com,Male,Ahmedabad,Gujarat,2024-09-14,Organic Search
+85,Customer_85,customer_85@example.com,Male,Pune,Maharashtra,2024-10-10,Organic Search
+86,Customer_86,customer_86@example.com,Female,Kolkata,West Bengal,2024-05-13,Paid Ads
+87,Customer_87,customer_87@example.com,Female,Ahmedabad,Gujarat,2025-07-18,Email
+88,Customer_88,customer_88@example.com,Male,Mumbai,Maharashtra,2024-04-24,Paid Ads
+89,Customer_89,customer_89@example.com,Male,Mumbai,Maharashtra,2025-01-13,Referral
+90,Customer_90,customer_90@example.com,Female,Delhi,Delhi,2024-02-12,Social Media
+91,Customer_91,customer_91@example.com,Male,Mumbai,Maharashtra,2025-01-01,Paid Ads
+92,Customer_92,customer_92@example.com,Female,Bengaluru,Karnataka,2024-12-28,Email
+93,Customer_93,customer_93@example.com,Male,Delhi,Delhi,2024-08-30,Paid Ads
+94,Customer_94,customer_94@example.com,Male,Pune,Maharashtra,2024-01-26,Social Media
+95,Customer_95,customer_95@example.com,Male,Pune,Maharashtra,2025-11-16,Social Media
+96,Customer_96,customer_96@example.com,Male,Delhi,Delhi,2025-12-19,Referral
+97,Customer_97,customer_97@example.com,Male,Mumbai,Maharashtra,2025-04-26,Paid Ads
+98,Customer_98,customer_98@example.com,Female,Ahmedabad,Gujarat,2024-12-24,Paid Ads
+99,Customer_99,customer_99@example.com,Male,Hyderabad,Telangana,2024-01-25,Referral
+100,Customer_100,customer_100@example.com,Male,Kolkata,West Bengal,2024-10-12,Social Media
+101,Customer_101,customer_101@example.com,Female,Kolkata,West Bengal,2025-10-18,Email
+102,Customer_102,customer_102@example.com,Male,Kolkata,West Bengal,2024-01-29,Social Media
+103,Customer_103,customer_103@example.com,Female,Delhi,Delhi,2025-08-17,Organic Search
+104,Customer_104,customer_104@example.com,Female,Bengaluru,Karnataka,2025-09-02,Social Media
+105,Customer_105,customer_105@example.com,Male,Kolkata,West Bengal,2025-03-22,Referral
+106,Customer_106,customer_106@example.com,Male,Hyderabad,Telangana,2024-09-17,Referral
+107,Customer_107,customer_107@example.com,Male,Mumbai,Maharashtra,2025-06-16,Social Media
+108,Customer_108,customer_108@example.com,Female,Pune,Maharashtra,2024-03-12,Email
+109,Customer_109,customer_109@example.com,Male,Kolkata,West Bengal,2025-11-10,Social Media
+110,Customer_110,customer_110@example.com,Female,Chennai,Tamil Nadu,2025-11-13,Social Media
+111,Customer_111,customer_111@example.com,Female,Pune,Maharashtra,2025-12-14,Email
+112,Customer_112,customer_112@example.com,Female,Delhi,Delhi,2024-07-15,Referral
+113,Customer_113,customer_113@example.com,Female,Delhi,Delhi,2025-09-22,Referral
+114,Customer_114,customer_114@example.com,Female,Mumbai,Maharashtra,2024-11-07,Paid Ads
+115,Customer_115,customer_115@example.com,Female,Pune,Maharashtra,2025-08-16,Referral
+116,Customer_116,customer_116@example.com,Male,Ahmedabad,Gujarat,2025-03-28,Email
+117,Customer_117,customer_117@example.com,Male,Ahmedabad,Gujarat,2024-06-22,Social Media
+118,Customer_118,customer_118@example.com,Male,Kolkata,West Bengal,2024-04-05,Social Media
+119,Customer_119,customer_119@example.com,Male,Hyderabad,Telangana,2024-07-22,Organic Search
+120,Customer_120,customer_120@example.com,Female,Mumbai,Maharashtra,2024-09-07,Email
+121,Customer_121,customer_121@example.com,Female,Bengaluru,Karnataka,2025-04-11,Email
+122,Customer_122,customer_122@example.com,Female,Hyderabad,Telangana,2025-12-14,Referral
+123,Customer_123,customer_123@example.com,Male,Pune,Maharashtra,2024-09-06,Organic Search
+124,Customer_124,customer_124@example.com,Male,Bengaluru,Karnataka,2025-03-11,Paid Ads
+125,Customer_125,customer_125@example.com,Male,Ahmedabad,Gujarat,2024-02-21,Organic Search
+126,Customer_126,customer_126@example.com,Female,Ahmedabad,Gujarat,2024-05-16,Email
+127,Customer_127,customer_127@example.com,Female,Kolkata,West Bengal,2025-03-29,Email
+128,Customer_128,customer_128@example.com,Female,Ahmedabad,Gujarat,2024-06-11,Referral
+129,Customer_129,customer_129@example.com,Female,Chennai,Tamil Nadu,2024-09-10,Email
+130,Customer_130,customer_130@example.com,Male,Ahmedabad,Gujarat,2025-10-03,Social Media
+131,Customer_131,customer_131@example.com,Female,Ahmedabad,Gujarat,2024-03-20,Paid Ads
+132,Customer_132,customer_132@example.com,Female,Chennai,Tamil Nadu,2024-12-09,Email
+133,Customer_133,customer_133@example.com,Male,Bengaluru,Karnataka,2024-05-21,Paid Ads
+134,Customer_134,customer_134@example.com,Male,Pune,Maharashtra,2025-12-11,Paid Ads
+135,Customer_135,customer_135@example.com,Female,Bengaluru,Karnataka,2025-02-28,Social Media
+136,Customer_136,customer_136@example.com,Male,Ahmedabad,Gujarat,2025-03-01,Paid Ads
+137,Customer_137,customer_137@example.com,Male,Pune,Maharashtra,2025-02-02,Email
+138,Customer_138,customer_138@example.com,Male,Pune,Maharashtra,2025-05-03,Social Media
+139,Customer_139,customer_139@example.com,Female,Chennai,Tamil Nadu,2025-02-03,Email
+140,Customer_140,customer_140@example.com,Male,Hyderabad,Telangana,2025-05-14,Social Media
+141,Customer_141,customer_141@example.com,Male,Pune,Maharashtra,2025-05-12,Referral
+142,Customer_142,customer_142@example.com,Female,Kolkata,West Bengal,2025-11-15,Paid Ads
+143,Customer_143,customer_143@example.com,Male,Ahmedabad,Gujarat,2024-05-10,Referral
+144,Customer_144,customer_144@example.com,Female,Mumbai,Maharashtra,2024-03-26,Paid Ads
+145,Customer_145,customer_145@example.com,Male,Ahmedabad,Gujarat,2024-07-05,Social Media
+146,Customer_146,customer_146@example.com,Male,Pune,Maharashtra,2024-12-01,Referral
+147,Customer_147,customer_147@example.com,Female,Kolkata,West Bengal,2024-12-11,Social Media
+148,Customer_148,customer_148@example.com,Male,Pune,Maharashtra,2024-09-15,Referral
+149,Customer_149,customer_149@example.com,Male,Mumbai,Maharashtra,2025-07-06,Social Media
+150,Customer_150,customer_150@example.com,Male,Hyderabad,Telangana,2025-10-27,Organic Search
+151,Customer_151,customer_151@example.com,Male,Mumbai,Maharashtra,2024-09-10,Organic Search
+152,Customer_152,customer_152@example.com,Male,Delhi,Delhi,2024-09-01,Referral
+153,Customer_153,customer_153@example.com,Male,Bengaluru,Karnataka,2025-07-31,Referral
+154,Customer_154,customer_154@example.com,Male,Chennai,Tamil Nadu,2025-01-12,Email
+155,Customer_155,customer_155@example.com,Female,Bengaluru,Karnataka,2024-06-16,Organic Search
+156,Customer_156,customer_156@example.com,Female,Mumbai,Maharashtra,2024-11-15,Referral
+157,Customer_157,customer_157@example.com,Male,Hyderabad,Telangana,2024-03-18,Organic Search
+158,Customer_158,customer_158@example.com,Male,Chennai,Tamil Nadu,2025-12-01,Email
+159,Customer_159,customer_159@example.com,Female,Mumbai,Maharashtra,2024-12-21,Social Media
+160,Customer_160,customer_160@example.com,Female,Bengaluru,Karnataka,2025-06-02,Organic Search
+161,Customer_161,customer_161@example.com,Male,Pune,Maharashtra,2025-05-16,Referral
+162,Customer_162,customer_162@example.com,Female,Kolkata,West Bengal,2025-10-12,Paid Ads
+163,Customer_163,customer_163@example.com,Female,Pune,Maharashtra,2024-06-29,Email
+164,Customer_164,customer_164@example.com,Female,Ahmedabad,Gujarat,2025-04-21,Email
+165,Customer_165,customer_165@example.com,Male,Chennai,Tamil Nadu,2024-11-26,Organic Search
+166,Customer_166,customer_166@example.com,Male,Chennai,Tamil Nadu,2025-04-06,Referral
+167,Customer_167,customer_167@example.com,Male,Pune,Maharashtra,2024-12-10,Referral
+168,Customer_168,customer_168@example.com,Female,Kolkata,West Bengal,2024-07-05,Paid Ads
+169,Customer_169,customer_169@example.com,Female,Kolkata,West Bengal,2024-09-21,Social Media
+170,Customer_170,customer_170@example.com,Male,Chennai,Tamil Nadu,2025-07-23,Email
+171,Customer_171,customer_171@example.com,Male,Hyderabad,Telangana,2024-03-28,Referral
+172,Customer_172,customer_172@example.com,Male,Ahmedabad,Gujarat,2025-07-22,Referral
+173,Customer_173,customer_173@example.com,Male,Ahmedabad,Gujarat,2025-04-03,Organic Search
+174,Customer_174,customer_174@example.com,Female,Chennai,Tamil Nadu,2024-08-14,Paid Ads
+175,Customer_175,customer_175@example.com,Female,Chennai,Tamil Nadu,2025-11-10,Referral
+176,Customer_176,customer_176@example.com,Female,Kolkata,West Bengal,2025-03-11,Social Media
+177,Customer_177,customer_177@example.com,Female,Ahmedabad,Gujarat,2024-10-04,Social Media
+178,Customer_178,customer_178@example.com,Male,Hyderabad,Telangana,2024-05-03,Social Media
+179,Customer_179,customer_179@example.com,Male,Bengaluru,Karnataka,2025-07-02,Paid Ads
+180,Customer_180,customer_180@example.com,Female,Hyderabad,Telangana,2025-05-10,Email
+181,Customer_181,customer_181@example.com,Male,Chennai,Tamil Nadu,2024-04-12,Social Media
+182,Customer_182,customer_182@example.com,Male,Hyderabad,Telangana,2025-01-04,Social Media
+183,Customer_183,customer_183@example.com,Male,Mumbai,Maharashtra,2025-12-26,Social Media
+184,Customer_184,customer_184@example.com,Female,Mumbai,Maharashtra,2024-02-25,Paid Ads
+185,Customer_185,customer_185@example.com,Male,Ahmedabad,Gujarat,2024-04-15,Email
+186,Customer_186,customer_186@example.com,Female,Chennai,Tamil Nadu,2025-04-25,Referral
+187,Customer_187,customer_187@example.com,Male,Kolkata,West Bengal,2024-07-07,Social Media
+188,Customer_188,customer_188@example.com,Male,Ahmedabad,Gujarat,2024-04-26,Referral
+189,Customer_189,customer_189@example.com,Male,Ahmedabad,Gujarat,2024-03-16,Paid Ads
+190,Customer_190,customer_190@example.com,Female,Delhi,Delhi,2025-07-30,Organic Search
+191,Customer_191,customer_191@example.com,Female,Hyderabad,Telangana,2024-05-01,Email
+192,Customer_192,customer_192@example.com,Female,Hyderabad,Telangana,2025-06-19,Referral
+193,Customer_193,customer_193@example.com,Female,Ahmedabad,Gujarat,2024-10-31,Social Media
+194,Customer_194,customer_194@example.com,Male,Mumbai,Maharashtra,2025-09-16,Paid Ads
+195,Customer_195,customer_195@example.com,Male,Hyderabad,Telangana,2024-09-27,Paid Ads
+196,Customer_196,customer_196@example.com,Male,Hyderabad,Telangana,2024-06-26,Paid Ads
+197,Customer_197,customer_197@example.com,Female,Mumbai,Maharashtra,2025-02-22,Email
+198,Customer_198,customer_198@example.com,Male,Ahmedabad,Gujarat,2024-10-25,Paid Ads
+199,Customer_199,customer_199@example.com,Female,Chennai,Tamil Nadu,2025-12-24,Referral
+200,Customer_200,customer_200@example.com,Male,Bengaluru,Karnataka,2025-12-04,Social Media
+201,Customer_201,customer_201@example.com,Male,Hyderabad,Telangana,2025-03-11,Email
+202,Customer_202,customer_202@example.com,Male,Hyderabad,Telangana,2025-10-25,Social Media
+203,Customer_203,customer_203@example.com,Male,Delhi,Delhi,2024-03-14,Paid Ads
+204,Customer_204,customer_204@example.com,Female,Chennai,Tamil Nadu,2025-09-01,Referral
+205,Customer_205,customer_205@example.com,Female,Bengaluru,Karnataka,2025-04-24,Referral
+206,Customer_206,customer_206@example.com,Female,Chennai,Tamil Nadu,2025-05-27,Referral
+207,Customer_207,customer_207@example.com,Male,Bengaluru,Karnataka,2025-09-04,Referral
+208,Customer_208,customer_208@example.com,Female,Kolkata,West Bengal,2025-09-10,Organic Search
+209,Customer_209,customer_209@example.com,Male,Bengaluru,Karnataka,2024-08-22,Social Media
+210,Customer_210,customer_210@example.com,Female,Mumbai,Maharashtra,2024-06-28,Email
+211,Customer_211,customer_211@example.com,Male,Ahmedabad,Gujarat,2024-10-11,Email
+212,Customer_212,customer_212@example.com,Female,Pune,Maharashtra,2025-10-12,Organic Search
+213,Customer_213,customer_213@example.com,Female,Ahmedabad,Gujarat,2024-12-22,Social Media
+214,Customer_214,customer_214@example.com,Male,Kolkata,West Bengal,2025-11-17,Paid Ads
+215,Customer_215,customer_215@example.com,Female,Kolkata,West Bengal,2025-02-25,Social Media
+216,Customer_216,customer_216@example.com,Male,Pune,Maharashtra,2025-07-17,Referral
+217,Customer_217,customer_217@example.com,Female,Bengaluru,Karnataka,2024-11-18,Social Media
+218,Customer_218,customer_218@example.com,Male,Bengaluru,Karnataka,2025-02-17,Email
+219,Customer_219,customer_219@example.com,Male,Ahmedabad,Gujarat,2025-02-27,Paid Ads
+220,Customer_220,customer_220@example.com,Female,Kolkata,West Bengal,2025-09-29,Referral
+221,Customer_221,customer_221@example.com,Female,Mumbai,Maharashtra,2024-07-27,Email
+222,Customer_222,customer_222@example.com,Female,Delhi,Delhi,2024-10-21,Referral
+223,Customer_223,customer_223@example.com,Male,Bengaluru,Karnataka,2024-01-30,Paid Ads
+224,Customer_224,customer_224@example.com,Male,Chennai,Tamil Nadu,2025-07-18,Email
+225,Customer_225,customer_225@example.com,Male,Pune,Maharashtra,2024-04-05,Organic Search
+226,Customer_226,customer_226@example.com,Male,Ahmedabad,Gujarat,2024-04-30,Referral
+227,Customer_227,customer_227@example.com,Female,Chennai,Tamil Nadu,2025-06-05,Referral
+228,Customer_228,customer_228@example.com,Male,Ahmedabad,Gujarat,2025-04-28,Referral
+229,Customer_229,customer_229@example.com,Male,Delhi,Delhi,2025-01-27,Email
+230,Customer_230,customer_230@example.com,Female,Delhi,Delhi,2024-03-12,Referral
+231,Customer_231,customer_231@example.com,Female,Kolkata,West Bengal,2025-06-03,Organic Search
+232,Customer_232,customer_232@example.com,Female,Chennai,Tamil Nadu,2024-11-01,Paid Ads
+233,Customer_233,customer_233@example.com,Female,Ahmedabad,Gujarat,2025-07-05,Social Media
+234,Customer_234,customer_234@example.com,Female,Kolkata,West Bengal,2025-07-19,Referral
+235,Customer_235,customer_235@example.com,Male,Kolkata,West Bengal,2024-07-12,Email
+236,Customer_236,customer_236@example.com,Female,Pune,Maharashtra,2024-08-27,Organic Search
+237,Customer_237,customer_237@example.com,Female,Kolkata,West Bengal,2025-04-29,Referral
+238,Customer_238,customer_238@example.com,Male,Delhi,Delhi,2025-05-22,Paid Ads
+239,Customer_239,customer_239@example.com,Female,Kolkata,West Bengal,2024-04-12,Organic Search
+240,Customer_240,customer_240@example.com,Male,Ahmedabad,Gujarat,2024-01-16,Referral
+241,Customer_241,customer_241@example.com,Female,Delhi,Delhi,2024-03-17,Social Media
+242,Customer_242,customer_242@example.com,Female,Kolkata,West Bengal,2025-09-30,Organic Search
+243,Customer_243,customer_243@example.com,Female,Kolkata,West Bengal,2025-11-21,Social Media
+244,Customer_244,customer_244@example.com,Male,Ahmedabad,Gujarat,2025-07-08,Email
+245,Customer_245,customer_245@example.com,Female,Bengaluru,Karnataka,2024-08-28,Paid Ads
+246,Customer_246,customer_246@example.com,Male,Bengaluru,Karnataka,2025-03-20,Organic Search
+247,Customer_247,customer_247@example.com,Female,Ahmedabad,Gujarat,2024-06-19,Organic Search
+248,Customer_248,customer_248@example.com,Male,Mumbai,Maharashtra,2024-11-28,Social Media
+249,Customer_249,customer_249@example.com,Female,Kolkata,West Bengal,2025-01-18,Paid Ads
+250,Customer_250,customer_250@example.com,Female,Hyderabad,Telangana,2025-06-27,Email
+251,Customer_251,customer_251@example.com,Male,Delhi,Delhi,2024-06-23,Organic Search
+252,Customer_252,customer_252@example.com,Male,Pune,Maharashtra,2025-09-26,Referral
+253,Customer_253,customer_253@example.com,Female,Delhi,Delhi,2024-08-25,Social Media
+254,Customer_254,customer_254@example.com,Male,Ahmedabad,Gujarat,2024-09-18,Referral
+255,Customer_255,customer_255@example.com,Male,Chennai,Tamil Nadu,2025-11-24,Organic Search
+256,Customer_256,customer_256@example.com,Female,Ahmedabad,Gujarat,2024-12-19,Referral
+257,Customer_257,customer_257@example.com,Female,Chennai,Tamil Nadu,2025-04-12,Paid Ads
+258,Customer_258,customer_258@example.com,Male,Pune,Maharashtra,2025-05-09,Paid Ads
+259,Customer_259,customer_259@example.com,Female,Pune,Maharashtra,2025-08-08,Email
+260,Customer_260,customer_260@example.com,Female,Chennai,Tamil Nadu,2025-12-17,Organic Search
+261,Customer_261,customer_261@example.com,Male,Pune,Maharashtra,2024-10-08,Email
+262,Customer_262,customer_262@example.com,Female,Mumbai,Maharashtra,2025-09-12,Social Media
+263,Customer_263,customer_263@example.com,Female,Hyderabad,Telangana,2025-09-13,Paid Ads
+264,Customer_264,customer_264@example.com,Female,Hyderabad,Telangana,2025-09-27,Paid Ads
+265,Customer_265,customer_265@example.com,Male,Bengaluru,Karnataka,2025-10-04,Social Media
+266,Customer_266,customer_266@example.com,Female,Ahmedabad,Gujarat,2024-02-04,Paid Ads
+267,Customer_267,customer_267@example.com,Female,Bengaluru,Karnataka,2024-10-29,Referral
+268,Customer_268,customer_268@example.com,Male,Delhi,Delhi,2024-07-24,Email
+269,Customer_269,customer_269@example.com,Female,Kolkata,West Bengal,2025-06-27,Paid Ads
+270,Customer_270,customer_270@example.com,Female,Chennai,Tamil Nadu,2025-05-08,Social Media
+271,Customer_271,customer_271@example.com,Male,Bengaluru,Karnataka,2025-04-24,Paid Ads
+272,Customer_272,customer_272@example.com,Female,Hyderabad,Telangana,2025-11-23,Email
+273,Customer_273,customer_273@example.com,Female,Kolkata,West Bengal,2024-04-02,Organic Search
+274,Customer_274,customer_274@example.com,Male,Chennai,Tamil Nadu,2025-07-03,Referral
+275,Customer_275,customer_275@example.com,Female,Kolkata,West Bengal,2025-11-19,Email
+276,Customer_276,customer_276@example.com,Female,Pune,Maharashtra,2025-10-15,Organic Search
+277,Customer_277,customer_277@example.com,Male,Hyderabad,Telangana,2025-04-27,Email
+278,Customer_278,customer_278@example.com,Male,Kolkata,West Bengal,2025-09-16,Organic Search
+279,Customer_279,customer_279@example.com,Female,Ahmedabad,Gujarat,2025-12-18,Referral
+280,Customer_280,customer_280@example.com,Male,Bengaluru,Karnataka,2024-05-23,Organic Search
+281,Customer_281,customer_281@example.com,Male,Chennai,Tamil Nadu,2025-05-19,Organic Search
+282,Customer_282,customer_282@example.com,Male,Hyderabad,Telangana,2025-07-04,Referral
+283,Customer_283,customer_283@example.com,Female,Ahmedabad,Gujarat,2025-01-14,Email
+284,Customer_284,customer_284@example.com,Male,Delhi,Delhi,2025-02-28,Referral
+285,Customer_285,customer_285@example.com,Male,Pune,Maharashtra,2024-10-13,Social Media
+286,Customer_286,customer_286@example.com,Female,Hyderabad,Telangana,2025-03-30,Paid Ads
+287,Customer_287,customer_287@example.com,Female,Kolkata,West Bengal,2024-04-11,Email
+288,Customer_288,customer_288@example.com,Female,Kolkata,West Bengal,2024-03-03,Social Media
+289,Customer_289,customer_289@example.com,Female,Hyderabad,Telangana,2024-05-05,Organic Search
+290,Customer_290,customer_290@example.com,Male,Hyderabad,Telangana,2025-10-19,Organic Search
+291,Customer_291,customer_291@example.com,Male,Kolkata,West Bengal,2024-09-06,Email
+292,Customer_292,customer_292@example.com,Male,Hyderabad,Telangana,2024-03-11,Email
+293,Customer_293,customer_293@example.com,Female,Hyderabad,Telangana,2024-08-26,Paid Ads
+294,Customer_294,customer_294@example.com,Male,Mumbai,Maharashtra,2024-10-10,Paid Ads
+295,Customer_295,customer_295@example.com,Male,Chennai,Tamil Nadu,2024-06-27,Organic Search
+296,Customer_296,customer_296@example.com,Female,Delhi,Delhi,2024-01-16,Paid Ads
+297,Customer_297,customer_297@example.com,Male,Kolkata,West Bengal,2024-01-17,Social Media
+298,Customer_298,customer_298@example.com,Female,Mumbai,Maharashtra,2024-05-09,Email
+299,Customer_299,customer_299@example.com,Female,Bengaluru,Karnataka,2024-03-06,Referral
+300,Customer_300,customer_300@example.com,Male,Kolkata,West Bengal,2025-06-09,Referral
+301,Customer_301,customer_301@example.com,Male,Hyderabad,Telangana,2025-09-21,Email
+302,Customer_302,customer_302@example.com,Male,Chennai,Tamil Nadu,2025-04-14,Organic Search
+303,Customer_303,customer_303@example.com,Female,Ahmedabad,Gujarat,2025-02-15,Organic Search
+304,Customer_304,customer_304@example.com,Female,Ahmedabad,Gujarat,2025-12-30,Organic Search
+305,Customer_305,customer_305@example.com,Male,Bengaluru,Karnataka,2024-11-25,Organic Search
+306,Customer_306,customer_306@example.com,Female,Delhi,Delhi,2024-10-08,Referral
+307,Customer_307,customer_307@example.com,Female,Chennai,Tamil Nadu,2025-04-09,Organic Search
+308,Customer_308,customer_308@example.com,Male,Bengaluru,Karnataka,2025-11-01,Referral
+309,Customer_309,customer_309@example.com,Female,Ahmedabad,Gujarat,2024-08-21,Social Media
+310,Customer_310,customer_310@example.com,Female,Ahmedabad,Gujarat,2025-02-12,Organic Search
+311,Customer_311,customer_311@example.com,Female,Kolkata,West Bengal,2025-03-13,Social Media
+312,Customer_312,customer_312@example.com,Female,Kolkata,West Bengal,2024-06-05,Organic Search
+313,Customer_313,customer_313@example.com,Male,Bengaluru,Karnataka,2024-03-28,Referral
+314,Customer_314,customer_314@example.com,Male,Bengaluru,Karnataka,2025-01-16,Email
+315,Customer_315,customer_315@example.com,Female,Mumbai,Maharashtra,2025-08-23,Organic Search
+316,Customer_316,customer_316@example.com,Female,Pune,Maharashtra,2024-12-28,Organic Search
+317,Customer_317,customer_317@example.com,Female,Chennai,Tamil Nadu,2025-09-06,Social Media
+318,Customer_318,customer_318@example.com,Male,Bengaluru,Karnataka,2025-08-14,Paid Ads
+319,Customer_319,customer_319@example.com,Male,Ahmedabad,Gujarat,2024-08-17,Social Media
+320,Customer_320,customer_320@example.com,Female,Kolkata,West Bengal,2024-04-27,Email
+321,Customer_321,customer_321@example.com,Male,Hyderabad,Telangana,2025-03-15,Email
+322,Customer_322,customer_322@example.com,Male,Chennai,Tamil Nadu,2024-01-30,Social Media
+323,Customer_323,customer_323@example.com,Female,Chennai,Tamil Nadu,2024-12-13,Organic Search
+324,Customer_324,customer_324@example.com,Female,Delhi,Delhi,2024-05-26,Organic Search
+325,Customer_325,customer_325@example.com,Male,Delhi,Delhi,2025-10-10,Organic Search
+326,Customer_326,customer_326@example.com,Female,Hyderabad,Telangana,2025-01-20,Referral
+327,Customer_327,customer_327@example.com,Female,Kolkata,West Bengal,2024-06-10,Social Media
+328,Customer_328,customer_328@example.com,Male,Kolkata,West Bengal,2025-08-04,Organic Search
+329,Customer_329,customer_329@example.com,Male,Delhi,Delhi,2024-06-10,Organic Search
+330,Customer_330,customer_330@example.com,Female,Chennai,Tamil Nadu,2025-03-29,Referral
+331,Customer_331,customer_331@example.com,Female,Ahmedabad,Gujarat,2025-02-28,Paid Ads
+332,Customer_332,customer_332@example.com,Female,Bengaluru,Karnataka,2024-12-19,Organic Search
+333,Customer_333,customer_333@example.com,Female,Chennai,Tamil Nadu,2025-11-25,Email
+334,Customer_334,customer_334@example.com,Male,Chennai,Tamil Nadu,2024-02-16,Referral
+335,Customer_335,customer_335@example.com,Male,Mumbai,Maharashtra,2024-01-08,Social Media
+336,Customer_336,customer_336@example.com,Female,Hyderabad,Telangana,2024-05-20,Social Media
+337,Customer_337,customer_337@example.com,Male,Kolkata,West Bengal,2024-05-02,Referral
+338,Customer_338,customer_338@example.com,Male,Pune,Maharashtra,2024-06-28,Referral
+339,Customer_339,customer_339@example.com,Female,Hyderabad,Telangana,2025-05-27,Organic Search
+340,Customer_340,customer_340@example.com,Female,Pune,Maharashtra,2024-02-13,Organic Search
+341,Customer_341,customer_341@example.com,Female,Ahmedabad,Gujarat,2024-03-20,Email
+342,Customer_342,customer_342@example.com,Female,Pune,Maharashtra,2025-08-10,Referral
+343,Customer_343,customer_343@example.com,Female,Chennai,Tamil Nadu,2024-04-27,Organic Search
+344,Customer_344,customer_344@example.com,Female,Kolkata,West Bengal,2024-06-24,Social Media
+345,Customer_345,customer_345@example.com,Male,Bengaluru,Karnataka,2025-03-23,Paid Ads
+346,Customer_346,customer_346@example.com,Female,Pune,Maharashtra,2025-08-26,Email
+347,Customer_347,customer_347@example.com,Female,Bengaluru,Karnataka,2025-02-09,Social Media
+348,Customer_348,customer_348@example.com,Male,Hyderabad,Telangana,2024-12-07,Organic Search
+349,Customer_349,customer_349@example.com,Male,Bengaluru,Karnataka,2025-06-27,Social Media
+350,Customer_350,customer_350@example.com,Male,Kolkata,West Bengal,2025-10-22,Paid Ads
+351,Customer_351,customer_351@example.com,Female,Bengaluru,Karnataka,2024-05-29,Paid Ads
+352,Customer_352,customer_352@example.com,Male,Delhi,Delhi,2025-09-08,Organic Search
+353,Customer_353,customer_353@example.com,Female,Delhi,Delhi,2025-10-05,Referral
+354,Customer_354,customer_354@example.com,Female,Ahmedabad,Gujarat,2025-11-28,Social Media
+355,Customer_355,customer_355@example.com,Male,Delhi,Delhi,2025-03-26,Referral
+356,Customer_356,customer_356@example.com,Female,Ahmedabad,Gujarat,2025-10-08,Social Media
+357,Customer_357,customer_357@example.com,Male,Mumbai,Maharashtra,2024-12-26,Social Media
+358,Customer_358,customer_358@example.com,Male,Ahmedabad,Gujarat,2025-04-07,Organic Search
+359,Customer_359,customer_359@example.com,Male,Kolkata,West Bengal,2024-10-20,Organic Search
+360,Customer_360,customer_360@example.com,Male,Pune,Maharashtra,2025-04-18,Referral
+361,Customer_361,customer_361@example.com,Female,Hyderabad,Telangana,2024-11-25,Email
+362,Customer_362,customer_362@example.com,Female,Delhi,Delhi,2024-03-04,Organic Search
+363,Customer_363,customer_363@example.com,Male,Kolkata,West Bengal,2024-03-27,Organic Search
+364,Customer_364,customer_364@example.com,Female,Hyderabad,Telangana,2025-12-25,Referral
+365,Customer_365,customer_365@example.com,Female,Delhi,Delhi,2025-01-07,Social Media
+366,Customer_366,customer_366@example.com,Female,Pune,Maharashtra,2025-02-22,Email
+367,Customer_367,customer_367@example.com,Female,Mumbai,Maharashtra,2025-10-08,Organic Search
+368,Customer_368,customer_368@example.com,Female,Kolkata,West Bengal,2024-04-06,Social Media
+369,Customer_369,customer_369@example.com,Male,Chennai,Tamil Nadu,2025-11-03,Social Media
+370,Customer_370,customer_370@example.com,Male,Bengaluru,Karnataka,2025-08-19,Social Media
+371,Customer_371,customer_371@example.com,Female,Chennai,Tamil Nadu,2025-11-02,Paid Ads
+372,Customer_372,customer_372@example.com,Female,Bengaluru,Karnataka,2024-11-13,Social Media
+373,Customer_373,customer_373@example.com,Male,Delhi,Delhi,2025-11-17,Referral
+374,Customer_374,customer_374@example.com,Female,Kolkata,West Bengal,2024-01-19,Social Media
+375,Customer_375,customer_375@example.com,Female,Delhi,Delhi,2024-08-07,Referral
+376,Customer_376,customer_376@example.com,Male,Hyderabad,Telangana,2024-08-19,Paid Ads
+377,Customer_377,customer_377@example.com,Male,Bengaluru,Karnataka,2024-10-29,Email
+378,Customer_378,customer_378@example.com,Female,Mumbai,Maharashtra,2025-11-08,Email
+379,Customer_379,customer_379@example.com,Female,Delhi,Delhi,2025-09-03,Paid Ads
+380,Customer_380,customer_380@example.com,Male,Delhi,Delhi,2024-07-04,Referral
+381,Customer_381,customer_381@example.com,Female,Mumbai,Maharashtra,2025-02-24,Paid Ads
+382,Customer_382,customer_382@example.com,Female,Ahmedabad,Gujarat,2025-09-17,Referral
+383,Customer_383,customer_383@example.com,Male,Hyderabad,Telangana,2025-06-30,Social Media
+384,Customer_384,customer_384@example.com,Female,Ahmedabad,Gujarat,2024-07-17,Email
+385,Customer_385,customer_385@example.com,Female,Ahmedabad,Gujarat,2025-04-17,Referral
+386,Customer_386,customer_386@example.com,Male,Pune,Maharashtra,2024-06-14,Email
+387,Customer_387,customer_387@example.com,Male,Delhi,Delhi,2024-09-13,Referral
+388,Customer_388,customer_388@example.com,Male,Kolkata,West Bengal,2025-07-21,Email
+389,Customer_389,customer_389@example.com,Male,Bengaluru,Karnataka,2024-10-18,Paid Ads
+390,Customer_390,customer_390@example.com,Male,Chennai,Tamil Nadu,2025-04-05,Referral
+391,Customer_391,customer_391@example.com,Female,Bengaluru,Karnataka,2024-08-15,Social Media
+392,Customer_392,customer_392@example.com,Male,Mumbai,Maharashtra,2025-02-28,Referral
+393,Customer_393,customer_393@example.com,Female,Kolkata,West Bengal,2024-08-29,Organic Search
+394,Customer_394,customer_394@example.com,Male,Kolkata,West Bengal,2024-08-17,Social Media
+395,Customer_395,customer_395@example.com,Female,Bengaluru,Karnataka,2025-10-27,Paid Ads
+396,Customer_396,customer_396@example.com,Female,Delhi,Delhi,2024-02-09,Referral
+397,Customer_397,customer_397@example.com,Female,Delhi,Delhi,2025-12-23,Referral
+398,Customer_398,customer_398@example.com,Male,Mumbai,Maharashtra,2024-03-22,Social Media
+399,Customer_399,customer_399@example.com,Female,Hyderabad,Telangana,2024-06-02,Organic Search
+400,Customer_400,customer_400@example.com,Female,Chennai,Tamil Nadu,2024-08-31,Organic Search
+401,Customer_401,customer_401@example.com,Female,Mumbai,Maharashtra,2024-09-01,Email
+402,Customer_402,customer_402@example.com,Male,Ahmedabad,Gujarat,2024-03-05,Referral
+403,Customer_403,customer_403@example.com,Male,Mumbai,Maharashtra,2025-10-09,Paid Ads
+404,Customer_404,customer_404@example.com,Male,Chennai,Tamil Nadu,2025-03-15,Email
+405,Customer_405,customer_405@example.com,Female,Kolkata,West Bengal,2024-09-03,Paid Ads
+406,Customer_406,customer_406@example.com,Female,Bengaluru,Karnataka,2025-06-20,Organic Search
+407,Customer_407,customer_407@example.com,Female,Mumbai,Maharashtra,2025-02-03,Organic Search
+408,Customer_408,customer_408@example.com,Female,Pune,Maharashtra,2025-01-17,Organic Search
+409,Customer_409,customer_409@example.com,Female,Kolkata,West Bengal,2024-03-10,Paid Ads
+410,Customer_410,customer_410@example.com,Female,Bengaluru,Karnataka,2025-08-18,Paid Ads
+411,Customer_411,customer_411@example.com,Female,Mumbai,Maharashtra,2024-12-26,Paid Ads
+412,Customer_412,customer_412@example.com,Female,Ahmedabad,Gujarat,2025-12-13,Paid Ads
+413,Customer_413,customer_413@example.com,Female,Delhi,Delhi,2024-03-05,Organic Search
+414,Customer_414,customer_414@example.com,Male,Chennai,Tamil Nadu,2024-07-25,Paid Ads
+415,Customer_415,customer_415@example.com,Female,Mumbai,Maharashtra,2024-11-19,Email
+416,Customer_416,customer_416@example.com,Female,Pune,Maharashtra,2025-07-10,Social Media
+417,Customer_417,customer_417@example.com,Male,Mumbai,Maharashtra,2025-10-24,Social Media
+418,Customer_418,customer_418@example.com,Female,Kolkata,West Bengal,2024-02-18,Social Media
+419,Customer_419,customer_419@example.com,Female,Bengaluru,Karnataka,2025-01-11,Referral
+420,Customer_420,customer_420@example.com,Female,Ahmedabad,Gujarat,2025-01-30,Paid Ads
+421,Customer_421,customer_421@example.com,Female,Ahmedabad,Gujarat,2025-12-09,Social Media
+422,Customer_422,customer_422@example.com,Female,Chennai,Tamil Nadu,2024-03-25,Organic Search
+423,Customer_423,customer_423@example.com,Male,Pune,Maharashtra,2025-09-08,Email
+424,Customer_424,customer_424@example.com,Male,Chennai,Tamil Nadu,2024-11-24,Organic Search
+425,Customer_425,customer_425@example.com,Female,Kolkata,West Bengal,2025-11-07,Social Media
+426,Customer_426,customer_426@example.com,Female,Ahmedabad,Gujarat,2025-09-09,Paid Ads
+427,Customer_427,customer_427@example.com,Female,Ahmedabad,Gujarat,2024-12-25,Organic Search
+428,Customer_428,customer_428@example.com,Female,Kolkata,West Bengal,2025-09-21,Social Media
+429,Customer_429,customer_429@example.com,Female,Mumbai,Maharashtra,2024-03-17,Social Media
+430,Customer_430,customer_430@example.com,Male,Delhi,Delhi,2024-02-01,Email
+431,Customer_431,customer_431@example.com,Male,Ahmedabad,Gujarat,2024-02-05,Organic Search
+432,Customer_432,customer_432@example.com,Female,Hyderabad,Telangana,2025-10-22,Social Media
+433,Customer_433,customer_433@example.com,Male,Pune,Maharashtra,2025-08-03,Email
+434,Customer_434,customer_434@example.com,Female,Delhi,Delhi,2025-11-26,Social Media
+435,Customer_435,customer_435@example.com,Male,Kolkata,West Bengal,2025-03-30,Email
+436,Customer_436,customer_436@example.com,Female,Delhi,Delhi,2025-06-26,Referral
+437,Customer_437,customer_437@example.com,Female,Kolkata,West Bengal,2025-10-27,Paid Ads
+438,Customer_438,customer_438@example.com,Male,Bengaluru,Karnataka,2024-01-27,Referral
+439,Customer_439,customer_439@example.com,Male,Pune,Maharashtra,2025-07-29,Social Media
+440,Customer_440,customer_440@example.com,Female,Chennai,Tamil Nadu,2025-12-21,Paid Ads
+441,Customer_441,customer_441@example.com,Female,Chennai,Tamil Nadu,2025-12-11,Paid Ads
+442,Customer_442,customer_442@example.com,Male,Bengaluru,Karnataka,2024-05-18,Referral
+443,Customer_443,customer_443@example.com,Female,Delhi,Delhi,2025-12-31,Organic Search
+444,Customer_444,customer_444@example.com,Female,Kolkata,West Bengal,2025-11-14,Organic Search
+445,Customer_445,customer_445@example.com,Male,Chennai,Tamil Nadu,2024-11-03,Paid Ads
+446,Customer_446,customer_446@example.com,Male,Kolkata,West Bengal,2025-06-04,Organic Search
+447,Customer_447,customer_447@example.com,Male,Hyderabad,Telangana,2024-05-22,Referral
+448,Customer_448,customer_448@example.com,Female,Mumbai,Maharashtra,2025-01-04,Referral
+449,Customer_449,customer_449@example.com,Male,Delhi,Delhi,2025-09-18,Organic Search
+450,Customer_450,customer_450@example.com,Female,Chennai,Tamil Nadu,2025-02-11,Email
+451,Customer_451,customer_451@example.com,Male,Pune,Maharashtra,2025-02-23,Paid Ads
+452,Customer_452,customer_452@example.com,Male,Kolkata,West Bengal,2025-10-19,Referral
+453,Customer_453,customer_453@example.com,Female,Ahmedabad,Gujarat,2025-11-27,Paid Ads
+454,Customer_454,customer_454@example.com,Female,Delhi,Delhi,2024-05-12,Email
+455,Customer_455,customer_455@example.com,Male,Mumbai,Maharashtra,2024-05-07,Social Media
+456,Customer_456,customer_456@example.com,Female,Delhi,Delhi,2024-06-14,Paid Ads
+457,Customer_457,customer_457@example.com,Female,Kolkata,West Bengal,2025-06-15,Organic Search
+458,Customer_458,customer_458@example.com,Female,Chennai,Tamil Nadu,2024-07-20,Paid Ads
+459,Customer_459,customer_459@example.com,Male,Chennai,Tamil Nadu,2025-09-21,Email
+460,Customer_460,customer_460@example.com,Male,Delhi,Delhi,2025-08-29,Paid Ads
+461,Customer_461,customer_461@example.com,Male,Kolkata,West Bengal,2025-07-31,Organic Search
+462,Customer_462,customer_462@example.com,Female,Bengaluru,Karnataka,2024-02-16,Paid Ads
+463,Customer_463,customer_463@example.com,Male,Pune,Maharashtra,2025-09-24,Referral
+464,Customer_464,customer_464@example.com,Female,Chennai,Tamil Nadu,2025-10-19,Referral
+465,Customer_465,customer_465@example.com,Female,Hyderabad,Telangana,2025-12-02,Social Media
+466,Customer_466,customer_466@example.com,Male,Ahmedabad,Gujarat,2024-03-15,Paid Ads
+467,Customer_467,customer_467@example.com,Female,Ahmedabad,Gujarat,2025-03-01,Referral
+468,Customer_468,customer_468@example.com,Male,Hyderabad,Telangana,2024-12-14,Social Media
+469,Customer_469,customer_469@example.com,Female,Kolkata,West Bengal,2024-12-19,Paid Ads
+470,Customer_470,customer_470@example.com,Male,Kolkata,West Bengal,2025-06-11,Social Media
+471,Customer_471,customer_471@example.com,Male,Hyderabad,Telangana,2025-04-22,Social Media
+472,Customer_472,customer_472@example.com,Male,Ahmedabad,Gujarat,2024-09-10,Organic Search
+473,Customer_473,customer_473@example.com,Female,Mumbai,Maharashtra,2024-10-24,Email
+474,Customer_474,customer_474@example.com,Male,Pune,Maharashtra,2024-09-11,Social Media
+475,Customer_475,customer_475@example.com,Male,Kolkata,West Bengal,2024-07-13,Referral
+476,Customer_476,customer_476@example.com,Female,Ahmedabad,Gujarat,2025-05-25,Referral
+477,Customer_477,customer_477@example.com,Female,Mumbai,Maharashtra,2024-04-02,Email
+478,Customer_478,customer_478@example.com,Male,Ahmedabad,Gujarat,2024-09-03,Email
+479,Customer_479,customer_479@example.com,Male,Kolkata,West Bengal,2024-02-19,Social Media
+480,Customer_480,customer_480@example.com,Female,Ahmedabad,Gujarat,2025-09-03,Social Media
+481,Customer_481,customer_481@example.com,Female,Mumbai,Maharashtra,2024-04-20,Paid Ads
+482,Customer_482,customer_482@example.com,Female,Chennai,Tamil Nadu,2025-01-09,Social Media
+483,Customer_483,customer_483@example.com,Male,Mumbai,Maharashtra,2025-02-14,Email
+484,Customer_484,customer_484@example.com,Female,Hyderabad,Telangana,2025-01-06,Organic Search
+485,Customer_485,customer_485@example.com,Female,Pune,Maharashtra,2025-05-31,Email
+486,Customer_486,customer_486@example.com,Male,Chennai,Tamil Nadu,2025-09-30,Paid Ads
+487,Customer_487,customer_487@example.com,Female,Bengaluru,Karnataka,2025-02-07,Social Media
+488,Customer_488,customer_488@example.com,Male,Kolkata,West Bengal,2024-05-27,Email
+489,Customer_489,customer_489@example.com,Male,Pune,Maharashtra,2025-05-27,Organic Search
+490,Customer_490,customer_490@example.com,Female,Mumbai,Maharashtra,2024-05-20,Referral
+491,Customer_491,customer_491@example.com,Male,Ahmedabad,Gujarat,2024-06-01,Social Media
+492,Customer_492,customer_492@example.com,Female,Kolkata,West Bengal,2024-06-15,Email
+493,Customer_493,customer_493@example.com,Female,Chennai,Tamil Nadu,2025-08-30,Email
+494,Customer_494,customer_494@example.com,Female,Ahmedabad,Gujarat,2025-12-26,Referral
+495,Customer_495,customer_495@example.com,Female,Mumbai,Maharashtra,2025-01-12,Organic Search
+496,Customer_496,customer_496@example.com,Female,Pune,Maharashtra,2025-08-20,Organic Search
+497,Customer_497,customer_497@example.com,Male,Ahmedabad,Gujarat,2024-09-28,Organic Search
+498,Customer_498,customer_498@example.com,Female,Ahmedabad,Gujarat,2024-06-23,Paid Ads
+499,Customer_499,customer_499@example.com,Male,Hyderabad,Telangana,2024-02-02,Paid Ads
+500,Customer_500,customer_500@example.com,Female,Mumbai,Maharashtra,2025-03-27,Referral
+501,Customer_501,customer_501@example.com,Male,Delhi,Delhi,2025-02-26,Referral
+502,Customer_502,customer_502@example.com,Male,Ahmedabad,Gujarat,2024-03-04,Email
+503,Customer_503,customer_503@example.com,Female,Hyderabad,Telangana,2025-07-28,Referral
+504,Customer_504,customer_504@example.com,Male,Pune,Maharashtra,2024-11-17,Referral
+505,Customer_505,customer_505@example.com,Female,Kolkata,West Bengal,2025-07-13,Social Media
+506,Customer_506,customer_506@example.com,Male,Ahmedabad,Gujarat,2024-07-15,Social Media
+507,Customer_507,customer_507@example.com,Female,Chennai,Tamil Nadu,2024-08-18,Social Media
+508,Customer_508,customer_508@example.com,Female,Hyderabad,Telangana,2025-12-07,Social Media
+509,Customer_509,customer_509@example.com,Female,Ahmedabad,Gujarat,2024-12-23,Social Media
+510,Customer_510,customer_510@example.com,Female,Bengaluru,Karnataka,2025-08-10,Referral
+511,Customer_511,customer_511@example.com,Female,Kolkata,West Bengal,2024-05-29,Organic Search
+512,Customer_512,customer_512@example.com,Female,Chennai,Tamil Nadu,2024-03-21,Referral
+513,Customer_513,customer_513@example.com,Male,Chennai,Tamil Nadu,2025-05-05,Paid Ads
+514,Customer_514,customer_514@example.com,Female,Chennai,Tamil Nadu,2025-07-29,Paid Ads
+515,Customer_515,customer_515@example.com,Male,Bengaluru,Karnataka,2025-09-22,Paid Ads
+516,Customer_516,customer_516@example.com,Male,Mumbai,Maharashtra,2025-11-16,Paid Ads
+517,Customer_517,customer_517@example.com,Female,Mumbai,Maharashtra,2024-04-12,Social Media
+518,Customer_518,customer_518@example.com,Male,Ahmedabad,Gujarat,2024-04-12,Organic Search
+519,Customer_519,customer_519@example.com,Female,Delhi,Delhi,2025-02-20,Referral
+520,Customer_520,customer_520@example.com,Female,Hyderabad,Telangana,2024-10-21,Social Media
+521,Customer_521,customer_521@example.com,Male,Mumbai,Maharashtra,2024-04-01,Email
+522,Customer_522,customer_522@example.com,Female,Mumbai,Maharashtra,2024-06-28,Paid Ads
+523,Customer_523,customer_523@example.com,Female,Mumbai,Maharashtra,2025-02-10,Paid Ads
+524,Customer_524,customer_524@example.com,Male,Chennai,Tamil Nadu,2024-02-08,Social Media
+525,Customer_525,customer_525@example.com,Female,Bengaluru,Karnataka,2024-12-09,Referral
+526,Customer_526,customer_526@example.com,Female,Ahmedabad,Gujarat,2024-05-17,Social Media
+527,Customer_527,customer_527@example.com,Female,Hyderabad,Telangana,2024-04-25,Paid Ads
+528,Customer_528,customer_528@example.com,Female,Ahmedabad,Gujarat,2025-10-25,Paid Ads
+529,Customer_529,customer_529@example.com,Female,Mumbai,Maharashtra,2024-12-11,Email
+530,Customer_530,customer_530@example.com,Female,Hyderabad,Telangana,2024-06-28,Referral
+531,Customer_531,customer_531@example.com,Female,Kolkata,West Bengal,2024-03-29,Organic Search
+532,Customer_532,customer_532@example.com,Female,Delhi,Delhi,2024-05-23,Social Media
+533,Customer_533,customer_533@example.com,Female,Hyderabad,Telangana,2024-01-07,Referral
+534,Customer_534,customer_534@example.com,Female,Hyderabad,Telangana,2025-04-02,Social Media
+535,Customer_535,customer_535@example.com,Male,Chennai,Tamil Nadu,2025-08-19,Social Media
+536,Customer_536,customer_536@example.com,Male,Kolkata,West Bengal,2025-12-10,Organic Search
+537,Customer_537,customer_537@example.com,Female,Bengaluru,Karnataka,2025-04-21,Paid Ads
+538,Customer_538,customer_538@example.com,Female,Pune,Maharashtra,2025-12-03,Organic Search
+539,Customer_539,customer_539@example.com,Male,Chennai,Tamil Nadu,2025-01-11,Paid Ads
+540,Customer_540,customer_540@example.com,Male,Delhi,Delhi,2025-05-04,Referral
+541,Customer_541,customer_541@example.com,Female,Kolkata,West Bengal,2025-03-01,Email
+542,Customer_542,customer_542@example.com,Male,Hyderabad,Telangana,2024-09-10,Email
+543,Customer_543,customer_543@example.com,Female,Ahmedabad,Gujarat,2025-06-24,Organic Search
+544,Customer_544,customer_544@example.com,Male,Bengaluru,Karnataka,2024-03-04,Email
+545,Customer_545,customer_545@example.com,Female,Delhi,Delhi,2024-06-17,Email
+546,Customer_546,customer_546@example.com,Male,Ahmedabad,Gujarat,2024-04-29,Email
+547,Customer_547,customer_547@example.com,Female,Ahmedabad,Gujarat,2024-04-03,Organic Search
+548,Customer_548,customer_548@example.com,Female,Ahmedabad,Gujarat,2024-05-15,Referral
+549,Customer_549,customer_549@example.com,Female,Mumbai,Maharashtra,2025-07-26,Social Media
+550,Customer_550,customer_550@example.com,Female,Mumbai,Maharashtra,2025-02-09,Organic Search
+551,Customer_551,customer_551@example.com,Male,Hyderabad,Telangana,2025-08-15,Organic Search
+552,Customer_552,customer_552@example.com,Male,Pune,Maharashtra,2024-12-18,Email
+553,Customer_553,customer_553@example.com,Female,Mumbai,Maharashtra,2024-03-11,Organic Search
+554,Customer_554,customer_554@example.com,Male,Chennai,Tamil Nadu,2025-02-22,Paid Ads
+555,Customer_555,customer_555@example.com,Female,Pune,Maharashtra,2025-01-18,Referral
+556,Customer_556,customer_556@example.com,Male,Pune,Maharashtra,2025-01-19,Email
+557,Customer_557,customer_557@example.com,Female,Delhi,Delhi,2025-10-31,Organic Search
+558,Customer_558,customer_558@example.com,Female,Delhi,Delhi,2025-07-04,Email
+559,Customer_559,customer_559@example.com,Male,Delhi,Delhi,2024-08-16,Organic Search
+560,Customer_560,customer_560@example.com,Female,Chennai,Tamil Nadu,2025-04-19,Email
+561,Customer_561,customer_561@example.com,Male,Pune,Maharashtra,2024-08-23,Referral
+562,Customer_562,customer_562@example.com,Female,Kolkata,West Bengal,2024-06-07,Paid Ads
+563,Customer_563,customer_563@example.com,Female,Bengaluru,Karnataka,2024-02-02,Email
+564,Customer_564,customer_564@example.com,Male,Mumbai,Maharashtra,2024-09-03,Organic Search
+565,Customer_565,customer_565@example.com,Male,Bengaluru,Karnataka,2025-08-31,Referral
+566,Customer_566,customer_566@example.com,Male,Mumbai,Maharashtra,2024-09-07,Referral
+567,Customer_567,customer_567@example.com,Male,Ahmedabad,Gujarat,2024-08-27,Organic Search
+568,Customer_568,customer_568@example.com,Female,Delhi,Delhi,2025-05-30,Paid Ads
+569,Customer_569,customer_569@example.com,Female,Kolkata,West Bengal,2025-08-14,Paid Ads
+570,Customer_570,customer_570@example.com,Male,Chennai,Tamil Nadu,2024-05-26,Referral
+571,Customer_571,customer_571@example.com,Male,Chennai,Tamil Nadu,2024-10-08,Email
+572,Customer_572,customer_572@example.com,Female,Delhi,Delhi,2025-10-03,Email
+573,Customer_573,customer_573@example.com,Female,Ahmedabad,Gujarat,2024-02-18,Referral
+574,Customer_574,customer_574@example.com,Female,Kolkata,West Bengal,2025-12-14,Referral
+575,Customer_575,customer_575@example.com,Female,Delhi,Delhi,2024-11-03,Paid Ads
+576,Customer_576,customer_576@example.com,Male,Ahmedabad,Gujarat,2024-09-03,Social Media
+577,Customer_577,customer_577@example.com,Male,Delhi,Delhi,2025-04-19,Email
+578,Customer_578,customer_578@example.com,Male,Pune,Maharashtra,2025-03-02,Referral
+579,Customer_579,customer_579@example.com,Male,Hyderabad,Telangana,2024-09-18,Social Media
+580,Customer_580,customer_580@example.com,Female,Bengaluru,Karnataka,2025-04-05,Organic Search
+581,Customer_581,customer_581@example.com,Female,Hyderabad,Telangana,2024-02-22,Referral
+582,Customer_582,customer_582@example.com,Male,Mumbai,Maharashtra,2024-03-15,Email
+583,Customer_583,customer_583@example.com,Male,Hyderabad,Telangana,2025-05-05,Social Media
+584,Customer_584,customer_584@example.com,Male,Chennai,Tamil Nadu,2024-01-16,Paid Ads
+585,Customer_585,customer_585@example.com,Male,Bengaluru,Karnataka,2025-05-05,Email
+586,Customer_586,customer_586@example.com,Male,Hyderabad,Telangana,2025-02-10,Email
+587,Customer_587,customer_587@example.com,Female,Kolkata,West Bengal,2024-10-16,Referral
+588,Customer_588,customer_588@example.com,Female,Kolkata,West Bengal,2024-11-11,Social Media
+589,Customer_589,customer_589@example.com,Male,Ahmedabad,Gujarat,2025-04-22,Referral
+590,Customer_590,customer_590@example.com,Female,Kolkata,West Bengal,2024-07-27,Social Media
+591,Customer_591,customer_591@example.com,Male,Pune,Maharashtra,2024-02-16,Paid Ads
+592,Customer_592,customer_592@example.com,Female,Mumbai,Maharashtra,2024-09-24,Social Media
+593,Customer_593,customer_593@example.com,Female,Delhi,Delhi,2024-07-19,Paid Ads
+594,Customer_594,customer_594@example.com,Male,Pune,Maharashtra,2025-08-06,Referral
+595,Customer_595,customer_595@example.com,Female,Kolkata,West Bengal,2024-09-20,Referral
+596,Customer_596,customer_596@example.com,Female,Ahmedabad,Gujarat,2024-06-21,Paid Ads
+597,Customer_597,customer_597@example.com,Female,Delhi,Delhi,2025-07-13,Paid Ads
+598,Customer_598,customer_598@example.com,Male,Mumbai,Maharashtra,2025-06-20,Organic Search
+599,Customer_599,customer_599@example.com,Female,Mumbai,Maharashtra,2024-01-07,Paid Ads
+600,Customer_600,customer_600@example.com,Male,Hyderabad,Telangana,2024-03-10,Organic Search
+601,Customer_601,customer_601@example.com,Female,Hyderabad,Telangana,2025-06-01,Social Media
+602,Customer_602,customer_602@example.com,Female,Mumbai,Maharashtra,2025-09-24,Referral
+603,Customer_603,customer_603@example.com,Female,Mumbai,Maharashtra,2024-01-07,Organic Search
+604,Customer_604,customer_604@example.com,Female,Mumbai,Maharashtra,2025-06-26,Email
+605,Customer_605,customer_605@example.com,Female,Chennai,Tamil Nadu,2024-01-18,Paid Ads
+606,Customer_606,customer_606@example.com,Male,Bengaluru,Karnataka,2024-04-08,Paid Ads
+607,Customer_607,customer_607@example.com,Female,Hyderabad,Telangana,2025-09-26,Social Media
+608,Customer_608,customer_608@example.com,Male,Chennai,Tamil Nadu,2025-02-10,Social Media
+609,Customer_609,customer_609@example.com,Male,Pune,Maharashtra,2025-04-15,Paid Ads
+610,Customer_610,customer_610@example.com,Male,Chennai,Tamil Nadu,2025-12-01,Organic Search
+611,Customer_611,customer_611@example.com,Female,Bengaluru,Karnataka,2025-02-19,Referral
+612,Customer_612,customer_612@example.com,Male,Ahmedabad,Gujarat,2024-02-27,Paid Ads
+613,Customer_613,customer_613@example.com,Female,Bengaluru,Karnataka,2025-05-26,Social Media
+614,Customer_614,customer_614@example.com,Male,Bengaluru,Karnataka,2025-06-24,Paid Ads
+615,Customer_615,customer_615@example.com,Female,Hyderabad,Telangana,2025-12-09,Social Media
+616,Customer_616,customer_616@example.com,Female,Mumbai,Maharashtra,2024-03-17,Email
+617,Customer_617,customer_617@example.com,Female,Mumbai,Maharashtra,2024-07-02,Organic Search
+618,Customer_618,customer_618@example.com,Male,Hyderabad,Telangana,2025-08-24,Referral
+619,Customer_619,customer_619@example.com,Male,Bengaluru,Karnataka,2024-11-02,Email
+620,Customer_620,customer_620@example.com,Female,Hyderabad,Telangana,2025-08-03,Email
+621,Customer_621,customer_621@example.com,Male,Kolkata,West Bengal,2025-01-28,Organic Search
+622,Customer_622,customer_622@example.com,Male,Kolkata,West Bengal,2024-02-24,Referral
+623,Customer_623,customer_623@example.com,Female,Hyderabad,Telangana,2024-03-18,Email
+624,Customer_624,customer_624@example.com,Male,Pune,Maharashtra,2024-11-30,Social Media
+625,Customer_625,customer_625@example.com,Male,Ahmedabad,Gujarat,2025-05-17,Social Media
+626,Customer_626,customer_626@example.com,Male,Pune,Maharashtra,2025-03-18,Email
+627,Customer_627,customer_627@example.com,Female,Pune,Maharashtra,2024-03-28,Paid Ads
+628,Customer_628,customer_628@example.com,Female,Bengaluru,Karnataka,2024-03-25,Paid Ads
+629,Customer_629,customer_629@example.com,Male,Pune,Maharashtra,2025-12-29,Referral
+630,Customer_630,customer_630@example.com,Male,Kolkata,West Bengal,2025-01-04,Organic Search
+631,Customer_631,customer_631@example.com,Female,Mumbai,Maharashtra,2024-11-11,Social Media
+632,Customer_632,customer_632@example.com,Male,Chennai,Tamil Nadu,2024-04-14,Organic Search
+633,Customer_633,customer_633@example.com,Female,Delhi,Delhi,2025-03-17,Email
+634,Customer_634,customer_634@example.com,Male,Pune,Maharashtra,2024-04-15,Organic Search
+635,Customer_635,customer_635@example.com,Male,Kolkata,West Bengal,2025-07-21,Email
+636,Customer_636,customer_636@example.com,Male,Kolkata,West Bengal,2025-01-29,Social Media
+637,Customer_637,customer_637@example.com,Male,Pune,Maharashtra,2025-02-01,Email
+638,Customer_638,customer_638@example.com,Male,Hyderabad,Telangana,2025-08-08,Referral
+639,Customer_639,customer_639@example.com,Female,Delhi,Delhi,2024-05-22,Social Media
+640,Customer_640,customer_640@example.com,Male,Chennai,Tamil Nadu,2025-05-19,Organic Search
+641,Customer_641,customer_641@example.com,Female,Delhi,Delhi,2025-03-21,Referral
+642,Customer_642,customer_642@example.com,Male,Chennai,Tamil Nadu,2025-05-10,Social Media
+643,Customer_643,customer_643@example.com,Female,Chennai,Tamil Nadu,2024-09-09,Email
+644,Customer_644,customer_644@example.com,Male,Hyderabad,Telangana,2025-04-13,Paid Ads
+645,Customer_645,customer_645@example.com,Female,Chennai,Tamil Nadu,2024-01-07,Social Media
+646,Customer_646,customer_646@example.com,Female,Pune,Maharashtra,2024-12-03,Social Media
+647,Customer_647,customer_647@example.com,Male,Pune,Maharashtra,2025-10-28,Social Media
+648,Customer_648,customer_648@example.com,Male,Kolkata,West Bengal,2025-09-09,Referral
+649,Customer_649,customer_649@example.com,Female,Kolkata,West Bengal,2024-06-30,Social Media
+650,Customer_650,customer_650@example.com,Female,Chennai,Tamil Nadu,2025-12-12,Email
+651,Customer_651,customer_651@example.com,Female,Hyderabad,Telangana,2024-11-29,Social Media
+652,Customer_652,customer_652@example.com,Male,Pune,Maharashtra,2025-01-08,Email
+653,Customer_653,customer_653@example.com,Male,Hyderabad,Telangana,2025-08-29,Email
+654,Customer_654,customer_654@example.com,Male,Mumbai,Maharashtra,2025-04-17,Referral
+655,Customer_655,customer_655@example.com,Male,Chennai,Tamil Nadu,2025-12-10,Referral
+656,Customer_656,customer_656@example.com,Female,Ahmedabad,Gujarat,2024-05-22,Paid Ads
+657,Customer_657,customer_657@example.com,Male,Chennai,Tamil Nadu,2025-11-05,Referral
+658,Customer_658,customer_658@example.com,Female,Pune,Maharashtra,2024-03-16,Email
+659,Customer_659,customer_659@example.com,Female,Ahmedabad,Gujarat,2025-08-19,Email
+660,Customer_660,customer_660@example.com,Male,Pune,Maharashtra,2025-07-10,Social Media
+661,Customer_661,customer_661@example.com,Male,Bengaluru,Karnataka,2024-04-21,Social Media
+662,Customer_662,customer_662@example.com,Male,Delhi,Delhi,2025-10-24,Email
+663,Customer_663,customer_663@example.com,Female,Pune,Maharashtra,2024-12-05,Organic Search
+664,Customer_664,customer_664@example.com,Female,Mumbai,Maharashtra,2024-04-10,Paid Ads
+665,Customer_665,customer_665@example.com,Female,Hyderabad,Telangana,2025-04-01,Referral
+666,Customer_666,customer_666@example.com,Male,Ahmedabad,Gujarat,2025-11-26,Social Media
+667,Customer_667,customer_667@example.com,Male,Mumbai,Maharashtra,2025-05-09,Social Media
+668,Customer_668,customer_668@example.com,Male,Pune,Maharashtra,2024-03-28,Paid Ads
+669,Customer_669,customer_669@example.com,Female,Kolkata,West Bengal,2024-11-15,Referral
+670,Customer_670,customer_670@example.com,Female,Hyderabad,Telangana,2025-06-17,Social Media
+671,Customer_671,customer_671@example.com,Female,Ahmedabad,Gujarat,2024-04-09,Referral
+672,Customer_672,customer_672@example.com,Female,Kolkata,West Bengal,2024-03-09,Organic Search
+673,Customer_673,customer_673@example.com,Female,Bengaluru,Karnataka,2024-01-24,Organic Search
+674,Customer_674,customer_674@example.com,Male,Delhi,Delhi,2024-09-06,Email
+675,Customer_675,customer_675@example.com,Female,Delhi,Delhi,2024-12-04,Referral
+676,Customer_676,customer_676@example.com,Male,Hyderabad,Telangana,2025-02-18,Paid Ads
+677,Customer_677,customer_677@example.com,Male,Pune,Maharashtra,2025-02-09,Email
+678,Customer_678,customer_678@example.com,Female,Hyderabad,Telangana,2025-04-05,Referral
+679,Customer_679,customer_679@example.com,Male,Mumbai,Maharashtra,2025-12-22,Paid Ads
+680,Customer_680,customer_680@example.com,Male,Chennai,Tamil Nadu,2025-12-21,Email
+681,Customer_681,customer_681@example.com,Male,Bengaluru,Karnataka,2025-07-03,Social Media
+682,Customer_682,customer_682@example.com,Female,Kolkata,West Bengal,2024-07-20,Organic Search
+683,Customer_683,customer_683@example.com,Female,Chennai,Tamil Nadu,2025-11-17,Email
+684,Customer_684,customer_684@example.com,Female,Kolkata,West Bengal,2025-09-03,Email
+685,Customer_685,customer_685@example.com,Male,Pune,Maharashtra,2025-08-24,Social Media
+686,Customer_686,customer_686@example.com,Male,Kolkata,West Bengal,2025-04-13,Social Media
+687,Customer_687,customer_687@example.com,Male,Bengaluru,Karnataka,2025-11-19,Social Media
+688,Customer_688,customer_688@example.com,Female,Bengaluru,Karnataka,2024-09-01,Organic Search
+689,Customer_689,customer_689@example.com,Male,Delhi,Delhi,2025-01-17,Email
+690,Customer_690,customer_690@example.com,Male,Pune,Maharashtra,2025-03-04,Email
+691,Customer_691,customer_691@example.com,Male,Pune,Maharashtra,2025-03-09,Referral
+692,Customer_692,customer_692@example.com,Male,Delhi,Delhi,2025-07-22,Referral
+693,Customer_693,customer_693@example.com,Male,Chennai,Tamil Nadu,2024-05-23,Social Media
+694,Customer_694,customer_694@example.com,Male,Ahmedabad,Gujarat,2025-09-26,Social Media
+695,Customer_695,customer_695@example.com,Male,Mumbai,Maharashtra,2025-05-11,Paid Ads
+696,Customer_696,customer_696@example.com,Female,Pune,Maharashtra,2025-07-29,Referral
+697,Customer_697,customer_697@example.com,Female,Ahmedabad,Gujarat,2025-03-01,Referral
+698,Customer_698,customer_698@example.com,Male,Delhi,Delhi,2024-03-25,Paid Ads
+699,Customer_699,customer_699@example.com,Female,Chennai,Tamil Nadu,2024-02-03,Paid Ads
+700,Customer_700,customer_700@example.com,Female,Chennai,Tamil Nadu,2024-06-21,Email
+701,Customer_701,customer_701@example.com,Male,Ahmedabad,Gujarat,2025-07-16,Email
+702,Customer_702,customer_702@example.com,Female,Bengaluru,Karnataka,2024-10-01,Email
+703,Customer_703,customer_703@example.com,Male,Mumbai,Maharashtra,2025-03-27,Referral
+704,Customer_704,customer_704@example.com,Male,Bengaluru,Karnataka,2025-10-31,Social Media
+705,Customer_705,customer_705@example.com,Female,Mumbai,Maharashtra,2025-04-05,Social Media
+706,Customer_706,customer_706@example.com,Male,Bengaluru,Karnataka,2025-03-25,Paid Ads
+707,Customer_707,customer_707@example.com,Female,Hyderabad,Telangana,2025-08-25,Email
+708,Customer_708,customer_708@example.com,Male,Pune,Maharashtra,2024-06-18,Paid Ads
+709,Customer_709,customer_709@example.com,Female,Hyderabad,Telangana,2024-03-01,Email
+710,Customer_710,customer_710@example.com,Male,Chennai,Tamil Nadu,2025-09-03,Social Media
+711,Customer_711,customer_711@example.com,Female,Chennai,Tamil Nadu,2024-10-23,Email
+712,Customer_712,customer_712@example.com,Female,Bengaluru,Karnataka,2024-05-18,Organic Search
+713,Customer_713,customer_713@example.com,Male,Chennai,Tamil Nadu,2025-11-02,Paid Ads
+714,Customer_714,customer_714@example.com,Female,Hyderabad,Telangana,2024-05-29,Paid Ads
+715,Customer_715,customer_715@example.com,Male,Pune,Maharashtra,2025-05-16,Email
+716,Customer_716,customer_716@example.com,Female,Chennai,Tamil Nadu,2025-10-04,Referral
+717,Customer_717,customer_717@example.com,Male,Ahmedabad,Gujarat,2024-03-18,Referral
+718,Customer_718,customer_718@example.com,Female,Chennai,Tamil Nadu,2025-12-12,Referral
+719,Customer_719,customer_719@example.com,Male,Ahmedabad,Gujarat,2024-12-01,Organic Search
+720,Customer_720,customer_720@example.com,Female,Ahmedabad,Gujarat,2025-10-12,Organic Search
+721,Customer_721,customer_721@example.com,Female,Pune,Maharashtra,2024-08-11,Paid Ads
+722,Customer_722,customer_722@example.com,Female,Ahmedabad,Gujarat,2024-10-01,Social Media
+723,Customer_723,customer_723@example.com,Male,Kolkata,West Bengal,2025-07-14,Email
+724,Customer_724,customer_724@example.com,Male,Ahmedabad,Gujarat,2024-12-17,Organic Search
+725,Customer_725,customer_725@example.com,Female,Bengaluru,Karnataka,2025-10-03,Organic Search
+726,Customer_726,customer_726@example.com,Female,Bengaluru,Karnataka,2024-06-10,Referral
+727,Customer_727,customer_727@example.com,Male,Mumbai,Maharashtra,2025-03-14,Paid Ads
+728,Customer_728,customer_728@example.com,Female,Chennai,Tamil Nadu,2024-06-11,Organic Search
+729,Customer_729,customer_729@example.com,Male,Kolkata,West Bengal,2024-09-13,Social Media
+730,Customer_730,customer_730@example.com,Female,Delhi,Delhi,2024-02-23,Social Media
+731,Customer_731,customer_731@example.com,Male,Hyderabad,Telangana,2025-03-15,Organic Search
+732,Customer_732,customer_732@example.com,Female,Mumbai,Maharashtra,2024-08-06,Organic Search
+733,Customer_733,customer_733@example.com,Male,Delhi,Delhi,2025-08-30,Email
+734,Customer_734,customer_734@example.com,Male,Ahmedabad,Gujarat,2024-01-10,Social Media
+735,Customer_735,customer_735@example.com,Male,Bengaluru,Karnataka,2025-03-08,Referral
+736,Customer_736,customer_736@example.com,Female,Bengaluru,Karnataka,2024-08-22,Organic Search
+737,Customer_737,customer_737@example.com,Female,Bengaluru,Karnataka,2024-04-15,Social Media
+738,Customer_738,customer_738@example.com,Female,Chennai,Tamil Nadu,2024-05-20,Paid Ads
+739,Customer_739,customer_739@example.com,Male,Delhi,Delhi,2024-03-11,Email
+740,Customer_740,customer_740@example.com,Female,Delhi,Delhi,2025-03-26,Paid Ads
+741,Customer_741,customer_741@example.com,Female,Delhi,Delhi,2025-02-25,Paid Ads
+742,Customer_742,customer_742@example.com,Male,Bengaluru,Karnataka,2024-04-12,Organic Search
+743,Customer_743,customer_743@example.com,Female,Pune,Maharashtra,2024-12-25,Social Media
+744,Customer_744,customer_744@example.com,Female,Delhi,Delhi,2024-09-10,Organic Search
+745,Customer_745,customer_745@example.com,Female,Hyderabad,Telangana,2025-07-20,Organic Search
+746,Customer_746,customer_746@example.com,Male,Chennai,Tamil Nadu,2024-07-29,Referral
+747,Customer_747,customer_747@example.com,Male,Chennai,Tamil Nadu,2025-10-23,Paid Ads
+748,Customer_748,customer_748@example.com,Male,Ahmedabad,Gujarat,2025-01-30,Paid Ads
+749,Customer_749,customer_749@example.com,Male,Ahmedabad,Gujarat,2025-10-15,Email
+750,Customer_750,customer_750@example.com,Female,Mumbai,Maharashtra,2025-01-04,Paid Ads
+751,Customer_751,customer_751@example.com,Female,Pune,Maharashtra,2025-08-05,Social Media
+752,Customer_752,customer_752@example.com,Male,Delhi,Delhi,2025-04-27,Organic Search
+753,Customer_753,customer_753@example.com,Female,Bengaluru,Karnataka,2024-01-15,Paid Ads
+754,Customer_754,customer_754@example.com,Female,Mumbai,Maharashtra,2024-03-02,Email
+755,Customer_755,customer_755@example.com,Female,Chennai,Tamil Nadu,2025-10-05,Referral
+756,Customer_756,customer_756@example.com,Male,Pune,Maharashtra,2024-03-25,Social Media
+757,Customer_757,customer_757@example.com,Male,Bengaluru,Karnataka,2024-11-13,Email
+758,Customer_758,customer_758@example.com,Female,Hyderabad,Telangana,2024-06-08,Referral
+759,Customer_759,customer_759@example.com,Female,Bengaluru,Karnataka,2024-11-13,Paid Ads
+760,Customer_760,customer_760@example.com,Male,Mumbai,Maharashtra,2024-09-07,Referral
+761,Customer_761,customer_761@example.com,Male,Bengaluru,Karnataka,2025-04-09,Social Media
+762,Customer_762,customer_762@example.com,Male,Delhi,Delhi,2024-05-02,Paid Ads
+763,Customer_763,customer_763@example.com,Female,Mumbai,Maharashtra,2024-06-16,Social Media
+764,Customer_764,customer_764@example.com,Female,Chennai,Tamil Nadu,2024-06-19,Paid Ads
+765,Customer_765,customer_765@example.com,Male,Chennai,Tamil Nadu,2024-04-30,Social Media
+766,Customer_766,customer_766@example.com,Male,Pune,Maharashtra,2024-10-05,Social Media
+767,Customer_767,customer_767@example.com,Female,Bengaluru,Karnataka,2025-05-23,Email
+768,Customer_768,customer_768@example.com,Female,Kolkata,West Bengal,2024-02-26,Email
+769,Customer_769,customer_769@example.com,Male,Delhi,Delhi,2025-01-11,Social Media
+770,Customer_770,customer_770@example.com,Male,Bengaluru,Karnataka,2025-08-10,Paid Ads
+771,Customer_771,customer_771@example.com,Male,Mumbai,Maharashtra,2024-02-15,Paid Ads
+772,Customer_772,customer_772@example.com,Female,Mumbai,Maharashtra,2025-04-28,Referral
+773,Customer_773,customer_773@example.com,Male,Delhi,Delhi,2024-07-02,Email
+774,Customer_774,customer_774@example.com,Female,Pune,Maharashtra,2024-08-17,Paid Ads
+775,Customer_775,customer_775@example.com,Female,Pune,Maharashtra,2024-11-23,Organic Search
+776,Customer_776,customer_776@example.com,Male,Kolkata,West Bengal,2024-05-02,Paid Ads
+777,Customer_777,customer_777@example.com,Male,Hyderabad,Telangana,2025-06-12,Referral
+778,Customer_778,customer_778@example.com,Female,Bengaluru,Karnataka,2025-04-21,Social Media
+779,Customer_779,customer_779@example.com,Female,Kolkata,West Bengal,2024-03-29,Organic Search
+780,Customer_780,customer_780@example.com,Female,Kolkata,West Bengal,2024-07-24,Email
+781,Customer_781,customer_781@example.com,Male,Chennai,Tamil Nadu,2025-09-29,Referral
+782,Customer_782,customer_782@example.com,Female,Kolkata,West Bengal,2025-08-28,Paid Ads
+783,Customer_783,customer_783@example.com,Male,Hyderabad,Telangana,2024-06-03,Referral
+784,Customer_784,customer_784@example.com,Female,Mumbai,Maharashtra,2024-08-26,Organic Search
+785,Customer_785,customer_785@example.com,Female,Kolkata,West Bengal,2024-01-02,Social Media
+786,Customer_786,customer_786@example.com,Male,Bengaluru,Karnataka,2024-07-29,Referral
+787,Customer_787,customer_787@example.com,Male,Ahmedabad,Gujarat,2024-03-02,Social Media
+788,Customer_788,customer_788@example.com,Male,Bengaluru,Karnataka,2024-02-14,Email
+789,Customer_789,customer_789@example.com,Female,Pune,Maharashtra,2025-12-18,Referral
+790,Customer_790,customer_790@example.com,Male,Bengaluru,Karnataka,2025-08-17,Email
+791,Customer_791,customer_791@example.com,Female,Delhi,Delhi,2025-10-14,Organic Search
+792,Customer_792,customer_792@example.com,Male,Mumbai,Maharashtra,2025-03-21,Paid Ads
+793,Customer_793,customer_793@example.com,Female,Chennai,Tamil Nadu,2024-09-24,Referral
+794,Customer_794,customer_794@example.com,Female,Kolkata,West Bengal,2024-11-21,Social Media
+795,Customer_795,customer_795@example.com,Male,Hyderabad,Telangana,2024-03-17,Paid Ads
+796,Customer_796,customer_796@example.com,Male,Bengaluru,Karnataka,2024-06-08,Paid Ads
+797,Customer_797,customer_797@example.com,Female,Ahmedabad,Gujarat,2025-04-22,Referral
+798,Customer_798,customer_798@example.com,Female,Bengaluru,Karnataka,2025-07-02,Paid Ads
+799,Customer_799,customer_799@example.com,Female,Ahmedabad,Gujarat,2024-11-11,Social Media
+800,Customer_800,customer_800@example.com,Male,Bengaluru,Karnataka,2024-04-02,Social Media
+801,Customer_801,customer_801@example.com,Female,Mumbai,Maharashtra,2024-08-08,Paid Ads
+802,Customer_802,customer_802@example.com,Male,Bengaluru,Karnataka,2025-12-29,Social Media
+803,Customer_803,customer_803@example.com,Male,Pune,Maharashtra,2025-06-09,Social Media
+804,Customer_804,customer_804@example.com,Male,Chennai,Tamil Nadu,2024-06-27,Referral
+805,Customer_805,customer_805@example.com,Male,Ahmedabad,Gujarat,2025-07-23,Organic Search
+806,Customer_806,customer_806@example.com,Male,Ahmedabad,Gujarat,2024-04-14,Organic Search
+807,Customer_807,customer_807@example.com,Male,Mumbai,Maharashtra,2024-03-04,Paid Ads
+808,Customer_808,customer_808@example.com,Female,Hyderabad,Telangana,2025-02-14,Organic Search
+809,Customer_809,customer_809@example.com,Male,Chennai,Tamil Nadu,2024-03-17,Organic Search
+810,Customer_810,customer_810@example.com,Female,Hyderabad,Telangana,2025-10-23,Paid Ads
+811,Customer_811,customer_811@example.com,Male,Bengaluru,Karnataka,2024-12-05,Organic Search
+812,Customer_812,customer_812@example.com,Male,Ahmedabad,Gujarat,2024-02-21,Email
+813,Customer_813,customer_813@example.com,Female,Pune,Maharashtra,2025-02-08,Organic Search
+814,Customer_814,customer_814@example.com,Female,Pune,Maharashtra,2025-11-30,Paid Ads
+815,Customer_815,customer_815@example.com,Male,Kolkata,West Bengal,2024-08-07,Social Media
+816,Customer_816,customer_816@example.com,Male,Chennai,Tamil Nadu,2025-04-01,Organic Search
+817,Customer_817,customer_817@example.com,Female,Hyderabad,Telangana,2025-10-24,Referral
+818,Customer_818,customer_818@example.com,Female,Pune,Maharashtra,2025-07-17,Organic Search
+819,Customer_819,customer_819@example.com,Female,Bengaluru,Karnataka,2024-10-13,Paid Ads
+820,Customer_820,customer_820@example.com,Male,Pune,Maharashtra,2024-07-23,Email
+821,Customer_821,customer_821@example.com,Female,Mumbai,Maharashtra,2025-01-26,Referral
+822,Customer_822,customer_822@example.com,Female,Ahmedabad,Gujarat,2024-12-18,Referral
+823,Customer_823,customer_823@example.com,Male,Chennai,Tamil Nadu,2024-07-03,Social Media
+824,Customer_824,customer_824@example.com,Female,Hyderabad,Telangana,2024-01-31,Organic Search
+825,Customer_825,customer_825@example.com,Female,Ahmedabad,Gujarat,2025-06-26,Email
+826,Customer_826,customer_826@example.com,Male,Hyderabad,Telangana,2024-06-12,Paid Ads
+827,Customer_827,customer_827@example.com,Male,Hyderabad,Telangana,2024-09-29,Paid Ads
+828,Customer_828,customer_828@example.com,Male,Pune,Maharashtra,2024-12-29,Paid Ads
+829,Customer_829,customer_829@example.com,Female,Hyderabad,Telangana,2025-08-29,Social Media
+830,Customer_830,customer_830@example.com,Female,Mumbai,Maharashtra,2025-12-21,Email
+831,Customer_831,customer_831@example.com,Male,Delhi,Delhi,2025-07-30,Referral
+832,Customer_832,customer_832@example.com,Female,Chennai,Tamil Nadu,2024-06-28,Organic Search
+833,Customer_833,customer_833@example.com,Male,Bengaluru,Karnataka,2024-02-27,Email
+834,Customer_834,customer_834@example.com,Female,Hyderabad,Telangana,2024-01-21,Organic Search
+835,Customer_835,customer_835@example.com,Male,Kolkata,West Bengal,2025-09-20,Paid Ads
+836,Customer_836,customer_836@example.com,Female,Kolkata,West Bengal,2024-06-30,Organic Search
+837,Customer_837,customer_837@example.com,Male,Mumbai,Maharashtra,2024-05-31,Organic Search
+838,Customer_838,customer_838@example.com,Female,Kolkata,West Bengal,2024-03-15,Referral
+839,Customer_839,customer_839@example.com,Female,Bengaluru,Karnataka,2024-12-10,Social Media
+840,Customer_840,customer_840@example.com,Female,Delhi,Delhi,2024-06-10,Referral
+841,Customer_841,customer_841@example.com,Female,Kolkata,West Bengal,2024-06-27,Paid Ads
+842,Customer_842,customer_842@example.com,Female,Delhi,Delhi,2025-01-22,Social Media
+843,Customer_843,customer_843@example.com,Male,Delhi,Delhi,2024-06-30,Email
+844,Customer_844,customer_844@example.com,Male,Pune,Maharashtra,2025-08-04,Paid Ads
+845,Customer_845,customer_845@example.com,Male,Kolkata,West Bengal,2025-09-18,Email
+846,Customer_846,customer_846@example.com,Male,Bengaluru,Karnataka,2025-05-23,Social Media
+847,Customer_847,customer_847@example.com,Female,Bengaluru,Karnataka,2024-08-31,Social Media
+848,Customer_848,customer_848@example.com,Male,Delhi,Delhi,2025-10-13,Social Media
+849,Customer_849,customer_849@example.com,Female,Ahmedabad,Gujarat,2024-01-12,Paid Ads
+850,Customer_850,customer_850@example.com,Male,Hyderabad,Telangana,2025-12-10,Social Media
+851,Customer_851,customer_851@example.com,Male,Chennai,Tamil Nadu,2024-04-20,Organic Search
+852,Customer_852,customer_852@example.com,Female,Pune,Maharashtra,2025-03-24,Paid Ads
+853,Customer_853,customer_853@example.com,Female,Pune,Maharashtra,2025-05-19,Social Media
+854,Customer_854,customer_854@example.com,Female,Pune,Maharashtra,2024-04-13,Email
+855,Customer_855,customer_855@example.com,Female,Hyderabad,Telangana,2024-06-15,Organic Search
+856,Customer_856,customer_856@example.com,Male,Mumbai,Maharashtra,2024-10-28,Social Media
+857,Customer_857,customer_857@example.com,Male,Chennai,Tamil Nadu,2024-04-17,Social Media
+858,Customer_858,customer_858@example.com,Male,Delhi,Delhi,2025-01-19,Organic Search
+859,Customer_859,customer_859@example.com,Female,Bengaluru,Karnataka,2024-12-12,Organic Search
+860,Customer_860,customer_860@example.com,Male,Pune,Maharashtra,2025-10-31,Email
+861,Customer_861,customer_861@example.com,Male,Pune,Maharashtra,2024-06-09,Organic Search
+862,Customer_862,customer_862@example.com,Male,Kolkata,West Bengal,2024-07-29,Referral
+863,Customer_863,customer_863@example.com,Female,Chennai,Tamil Nadu,2025-11-07,Social Media
+864,Customer_864,customer_864@example.com,Male,Hyderabad,Telangana,2024-04-08,Referral
+865,Customer_865,customer_865@example.com,Male,Ahmedabad,Gujarat,2024-06-06,Social Media
+866,Customer_866,customer_866@example.com,Male,Mumbai,Maharashtra,2025-03-13,Social Media
+867,Customer_867,customer_867@example.com,Male,Ahmedabad,Gujarat,2024-07-23,Organic Search
+868,Customer_868,customer_868@example.com,Female,Hyderabad,Telangana,2024-06-23,Organic Search
+869,Customer_869,customer_869@example.com,Female,Ahmedabad,Gujarat,2024-04-28,Referral
+870,Customer_870,customer_870@example.com,Female,Ahmedabad,Gujarat,2025-05-15,Organic Search
+871,Customer_871,customer_871@example.com,Female,Pune,Maharashtra,2024-07-08,Referral
+872,Customer_872,customer_872@example.com,Female,Kolkata,West Bengal,2024-07-10,Organic Search
+873,Customer_873,customer_873@example.com,Female,Chennai,Tamil Nadu,2025-03-26,Social Media
+874,Customer_874,customer_874@example.com,Male,Hyderabad,Telangana,2024-10-02,Paid Ads
+875,Customer_875,customer_875@example.com,Female,Bengaluru,Karnataka,2024-03-28,Email
+876,Customer_876,customer_876@example.com,Male,Pune,Maharashtra,2025-08-26,Email
+877,Customer_877,customer_877@example.com,Female,Mumbai,Maharashtra,2025-01-31,Email
+878,Customer_878,customer_878@example.com,Male,Ahmedabad,Gujarat,2025-08-09,Referral
+879,Customer_879,customer_879@example.com,Female,Chennai,Tamil Nadu,2024-03-21,Organic Search
+880,Customer_880,customer_880@example.com,Female,Delhi,Delhi,2024-05-03,Paid Ads
+881,Customer_881,customer_881@example.com,Male,Delhi,Delhi,2024-08-04,Paid Ads
+882,Customer_882,customer_882@example.com,Male,Mumbai,Maharashtra,2025-03-09,Referral
+883,Customer_883,customer_883@example.com,Male,Hyderabad,Telangana,2025-10-04,Email
+884,Customer_884,customer_884@example.com,Male,Chennai,Tamil Nadu,2024-11-23,Organic Search
+885,Customer_885,customer_885@example.com,Female,Pune,Maharashtra,2025-07-23,Email
+886,Customer_886,customer_886@example.com,Female,Kolkata,West Bengal,2024-10-09,Organic Search
+887,Customer_887,customer_887@example.com,Female,Pune,Maharashtra,2024-04-25,Paid Ads
+888,Customer_888,customer_888@example.com,Male,Delhi,Delhi,2025-08-03,Organic Search
+889,Customer_889,customer_889@example.com,Female,Bengaluru,Karnataka,2024-10-19,Referral
+890,Customer_890,customer_890@example.com,Female,Chennai,Tamil Nadu,2025-01-27,Email
+891,Customer_891,customer_891@example.com,Male,Ahmedabad,Gujarat,2024-02-08,Social Media
+892,Customer_892,customer_892@example.com,Female,Pune,Maharashtra,2024-05-27,Organic Search
+893,Customer_893,customer_893@example.com,Male,Pune,Maharashtra,2024-12-05,Organic Search
+894,Customer_894,customer_894@example.com,Female,Ahmedabad,Gujarat,2024-10-02,Organic Search
+895,Customer_895,customer_895@example.com,Female,Kolkata,West Bengal,2024-11-06,Social Media
+896,Customer_896,customer_896@example.com,Male,Ahmedabad,Gujarat,2025-12-13,Paid Ads
+897,Customer_897,customer_897@example.com,Female,Delhi,Delhi,2024-11-03,Social Media
+898,Customer_898,customer_898@example.com,Male,Chennai,Tamil Nadu,2025-03-02,Paid Ads
+899,Customer_899,customer_899@example.com,Female,Ahmedabad,Gujarat,2024-08-04,Referral
+900,Customer_900,customer_900@example.com,Male,Kolkata,West Bengal,2024-02-27,Organic Search
+901,Customer_901,customer_901@example.com,Female,Chennai,Tamil Nadu,2025-12-27,Paid Ads
+902,Customer_902,customer_902@example.com,Male,Mumbai,Maharashtra,2024-06-26,Paid Ads
+903,Customer_903,customer_903@example.com,Male,Mumbai,Maharashtra,2024-09-12,Referral
+904,Customer_904,customer_904@example.com,Male,Mumbai,Maharashtra,2025-01-04,Social Media
+905,Customer_905,customer_905@example.com,Female,Kolkata,West Bengal,2025-04-20,Organic Search
+906,Customer_906,customer_906@example.com,Female,Mumbai,Maharashtra,2024-09-04,Referral
+907,Customer_907,customer_907@example.com,Female,Ahmedabad,Gujarat,2024-06-30,Email
+908,Customer_908,customer_908@example.com,Male,Kolkata,West Bengal,2024-12-18,Social Media
+909,Customer_909,customer_909@example.com,Male,Bengaluru,Karnataka,2024-10-18,Referral
+910,Customer_910,customer_910@example.com,Male,Mumbai,Maharashtra,2024-06-15,Paid Ads
+911,Customer_911,customer_911@example.com,Male,Hyderabad,Telangana,2025-11-24,Social Media
+912,Customer_912,customer_912@example.com,Male,Pune,Maharashtra,2025-06-09,Organic Search
+913,Customer_913,customer_913@example.com,Male,Ahmedabad,Gujarat,2024-05-15,Email
+914,Customer_914,customer_914@example.com,Female,Mumbai,Maharashtra,2024-08-17,Email
+915,Customer_915,customer_915@example.com,Female,Chennai,Tamil Nadu,2025-12-30,Referral
+916,Customer_916,customer_916@example.com,Female,Pune,Maharashtra,2024-12-23,Social Media
+917,Customer_917,customer_917@example.com,Female,Hyderabad,Telangana,2025-04-22,Email
+918,Customer_918,customer_918@example.com,Male,Pune,Maharashtra,2025-08-21,Organic Search
+919,Customer_919,customer_919@example.com,Female,Kolkata,West Bengal,2025-07-28,Social Media
+920,Customer_920,customer_920@example.com,Male,Bengaluru,Karnataka,2025-05-08,Social Media
+921,Customer_921,customer_921@example.com,Female,Chennai,Tamil Nadu,2025-10-17,Social Media
+922,Customer_922,customer_922@example.com,Female,Chennai,Tamil Nadu,2025-11-02,Paid Ads
+923,Customer_923,customer_923@example.com,Male,Delhi,Delhi,2025-06-13,Organic Search
+924,Customer_924,customer_924@example.com,Female,Pune,Maharashtra,2025-11-07,Paid Ads
+925,Customer_925,customer_925@example.com,Female,Mumbai,Maharashtra,2025-11-02,Social Media
+926,Customer_926,customer_926@example.com,Female,Chennai,Tamil Nadu,2025-03-04,Referral
+927,Customer_927,customer_927@example.com,Male,Mumbai,Maharashtra,2025-08-20,Social Media
+928,Customer_928,customer_928@example.com,Female,Hyderabad,Telangana,2025-12-03,Social Media
+929,Customer_929,customer_929@example.com,Male,Chennai,Tamil Nadu,2024-06-23,Social Media
+930,Customer_930,customer_930@example.com,Male,Bengaluru,Karnataka,2025-04-27,Social Media
+931,Customer_931,customer_931@example.com,Female,Delhi,Delhi,2025-11-27,Organic Search
+932,Customer_932,customer_932@example.com,Male,Hyderabad,Telangana,2024-12-29,Social Media
+933,Customer_933,customer_933@example.com,Female,Pune,Maharashtra,2024-12-05,Social Media
+934,Customer_934,customer_934@example.com,Male,Chennai,Tamil Nadu,2025-04-19,Referral
+935,Customer_935,customer_935@example.com,Male,Mumbai,Maharashtra,2025-10-11,Referral
+936,Customer_936,customer_936@example.com,Male,Hyderabad,Telangana,2025-05-27,Referral
+937,Customer_937,customer_937@example.com,Male,Chennai,Tamil Nadu,2025-02-27,Paid Ads
+938,Customer_938,customer_938@example.com,Female,Delhi,Delhi,2024-07-24,Referral
+939,Customer_939,customer_939@example.com,Female,Ahmedabad,Gujarat,2024-05-26,Paid Ads
+940,Customer_940,customer_940@example.com,Female,Bengaluru,Karnataka,2025-05-14,Paid Ads
+941,Customer_941,customer_941@example.com,Male,Kolkata,West Bengal,2025-10-11,Organic Search
+942,Customer_942,customer_942@example.com,Male,Ahmedabad,Gujarat,2024-10-07,Paid Ads
+943,Customer_943,customer_943@example.com,Male,Delhi,Delhi,2025-05-16,Paid Ads
+944,Customer_944,customer_944@example.com,Female,Pune,Maharashtra,2025-10-10,Referral
+945,Customer_945,customer_945@example.com,Female,Pune,Maharashtra,2025-05-03,Organic Search
+946,Customer_946,customer_946@example.com,Male,Mumbai,Maharashtra,2025-06-30,Social Media
+947,Customer_947,customer_947@example.com,Male,Mumbai,Maharashtra,2024-11-25,Organic Search
+948,Customer_948,customer_948@example.com,Male,Mumbai,Maharashtra,2025-10-03,Paid Ads
+949,Customer_949,customer_949@example.com,Male,Kolkata,West Bengal,2024-11-15,Organic Search
+950,Customer_950,customer_950@example.com,Female,Pune,Maharashtra,2025-05-30,Paid Ads
+951,Customer_951,customer_951@example.com,Female,Bengaluru,Karnataka,2024-02-16,Social Media
+952,Customer_952,customer_952@example.com,Female,Ahmedabad,Gujarat,2025-06-16,Referral
+953,Customer_953,customer_953@example.com,Female,Delhi,Delhi,2024-12-16,Social Media
+954,Customer_954,customer_954@example.com,Female,Hyderabad,Telangana,2024-06-17,Organic Search
+955,Customer_955,customer_955@example.com,Male,Hyderabad,Telangana,2024-08-17,Paid Ads
+956,Customer_956,customer_956@example.com,Male,Mumbai,Maharashtra,2025-08-26,Organic Search
+957,Customer_957,customer_957@example.com,Male,Kolkata,West Bengal,2025-12-29,Referral
+958,Customer_958,customer_958@example.com,Male,Chennai,Tamil Nadu,2025-07-01,Email
+959,Customer_959,customer_959@example.com,Male,Mumbai,Maharashtra,2025-11-08,Organic Search
+960,Customer_960,customer_960@example.com,Male,Mumbai,Maharashtra,2025-12-07,Referral
+961,Customer_961,customer_961@example.com,Male,Ahmedabad,Gujarat,2025-01-24,Email
+962,Customer_962,customer_962@example.com,Male,Chennai,Tamil Nadu,2025-04-30,Paid Ads
+963,Customer_963,customer_963@example.com,Female,Mumbai,Maharashtra,2024-11-04,Organic Search
+964,Customer_964,customer_964@example.com,Male,Chennai,Tamil Nadu,2025-09-29,Referral
+965,Customer_965,customer_965@example.com,Male,Bengaluru,Karnataka,2025-06-07,Social Media
+966,Customer_966,customer_966@example.com,Female,Bengaluru,Karnataka,2024-04-18,Paid Ads
+967,Customer_967,customer_967@example.com,Male,Hyderabad,Telangana,2024-09-26,Social Media
+968,Customer_968,customer_968@example.com,Male,Pune,Maharashtra,2024-10-29,Organic Search
+969,Customer_969,customer_969@example.com,Female,Ahmedabad,Gujarat,2024-07-31,Social Media
+970,Customer_970,customer_970@example.com,Male,Hyderabad,Telangana,2024-01-03,Organic Search
+971,Customer_971,customer_971@example.com,Female,Bengaluru,Karnataka,2025-08-10,Paid Ads
+972,Customer_972,customer_972@example.com,Male,Bengaluru,Karnataka,2025-06-07,Organic Search
+973,Customer_973,customer_973@example.com,Male,Chennai,Tamil Nadu,2025-10-21,Referral
+974,Customer_974,customer_974@example.com,Female,Chennai,Tamil Nadu,2024-09-27,Organic Search
+975,Customer_975,customer_975@example.com,Male,Bengaluru,Karnataka,2024-06-27,Social Media
+976,Customer_976,customer_976@example.com,Female,Kolkata,West Bengal,2025-11-24,Referral
+977,Customer_977,customer_977@example.com,Male,Bengaluru,Karnataka,2024-04-07,Organic Search
+978,Customer_978,customer_978@example.com,Male,Delhi,Delhi,2025-11-10,Social Media
+979,Customer_979,customer_979@example.com,Female,Kolkata,West Bengal,2025-03-24,Organic Search
+980,Customer_980,customer_980@example.com,Male,Kolkata,West Bengal,2024-12-16,Organic Search
+981,Customer_981,customer_981@example.com,Female,Pune,Maharashtra,2025-02-13,Social Media
+982,Customer_982,customer_982@example.com,Female,Pune,Maharashtra,2025-12-07,Referral
+983,Customer_983,customer_983@example.com,Male,Delhi,Delhi,2024-04-25,Organic Search
+984,Customer_984,customer_984@example.com,Female,Delhi,Delhi,2024-04-16,Email
+985,Customer_985,customer_985@example.com,Female,Ahmedabad,Gujarat,2025-08-05,Paid Ads
+986,Customer_986,customer_986@example.com,Male,Pune,Maharashtra,2025-01-02,Paid Ads
+987,Customer_987,customer_987@example.com,Male,Ahmedabad,Gujarat,2025-05-14,Referral
+988,Customer_988,customer_988@example.com,Male,Ahmedabad,Gujarat,2024-02-17,Social Media
+989,Customer_989,customer_989@example.com,Male,Kolkata,West Bengal,2024-01-13,Social Media
+990,Customer_990,customer_990@example.com,Male,Bengaluru,Karnataka,2025-03-19,Referral
+991,Customer_991,customer_991@example.com,Female,Kolkata,West Bengal,2025-11-10,Paid Ads
+992,Customer_992,customer_992@example.com,Male,Mumbai,Maharashtra,2024-01-12,Email
+993,Customer_993,customer_993@example.com,Male,Ahmedabad,Gujarat,2025-05-22,Organic Search
+994,Customer_994,customer_994@example.com,Male,Ahmedabad,Gujarat,2024-11-24,Social Media
+995,Customer_995,customer_995@example.com,Male,Chennai,Tamil Nadu,2024-02-21,Email
+996,Customer_996,customer_996@example.com,Male,Pune,Maharashtra,2025-02-16,Organic Search
+997,Customer_997,customer_997@example.com,Female,Ahmedabad,Gujarat,2025-03-30,Organic Search
+998,Customer_998,customer_998@example.com,Female,Ahmedabad,Gujarat,2025-04-02,Organic Search
+999,Customer_999,customer_999@example.com,Male,Ahmedabad,Gujarat,2025-10-31,Organic Search
+1000,Customer_1000,customer_1000@example.com,Male,Pune,Maharashtra,2025-02-26,Email
