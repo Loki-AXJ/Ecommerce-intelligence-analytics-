@@ -1,0 +1,12 @@
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IDE configurations
+.vscode/
+.idea/
+
+# MySQL & Local logs
+*.log
+*.sqlite
+*.sql.gz
