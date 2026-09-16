@@ -1,0 +1,991 @@
+customer_id,customer_name,acquisition_channel,recency_days,frequency,monetary_value
+529,Customer_529,Email,-512,10,27467.31
+116,Customer_116,Email,-506,9,24781.08
+660,Customer_660,"Social Media",-596,8,24193.36
+601,Customer_601,"Social Media",-388,10,23771.22
+107,Customer_107,"Social Media",-442,8,23761.23
+55,Customer_55,"Organic Search",-605,9,23258.89
+747,Customer_747,"Paid Ads",-556,9,23121.00
+443,Customer_443,"Organic Search",-573,9,22807.22
+391,Customer_391,"Social Media",-513,5,22458.24
+29,Customer_29,"Paid Ads",-560,9,21981.40
+702,Customer_702,Email,-602,7,21723.37
+96,Customer_96,Referral,-526,7,21564.40
+468,Customer_468,"Social Media",-573,11,21218.11
+563,Customer_563,Email,-275,4,21189.63
+84,Customer_84,"Organic Search",-535,9,20919.76
+711,Customer_711,Email,-473,8,20744.04
+674,Customer_674,Email,-517,7,20538.24
+934,Customer_934,Referral,-475,11,20284.62
+425,Customer_425,"Social Media",-594,11,20200.17
+47,Customer_47,Email,-497,7,20104.76
+623,Customer_623,Email,-530,8,20059.18
+264,Customer_264,"Paid Ads",-575,10,19942.34
+634,Customer_634,"Organic Search",-497,7,19679.17
+481,Customer_481,"Paid Ads",-526,10,19323.89
+304,Customer_304,"Organic Search",-521,6,19216.50
+475,Customer_475,Referral,-571,7,18650.85
+1000,Customer_1000,Email,-521,12,18550.78
+581,Customer_581,Referral,-506,5,18396.97
+701,Customer_701,Email,-600,10,18036.47
+332,Customer_332,"Organic Search",-590,8,17826.86
+440,Customer_440,"Paid Ads",-597,7,17695.88
+465,Customer_465,"Social Media",-605,7,17541.98
+476,Customer_476,Referral,-522,7,17452.68
+666,Customer_666,"Social Media",-553,7,17451.04
+595,Customer_595,Referral,-461,8,17445.56
+857,Customer_857,"Social Media",-577,5,17348.36
+454,Customer_454,Email,-433,6,17302.63
+437,Customer_437,"Paid Ads",-598,7,17077.51
+452,Customer_452,Referral,-439,6,16948.69
+590,Customer_590,"Social Media",-565,8,16857.37
+113,Customer_113,Referral,-604,7,16822.87
+780,Customer_780,Email,-459,9,16802.57
+233,Customer_233,"Social Media",-603,7,16781.55
+769,Customer_769,"Social Media",-604,10,16768.41
+345,Customer_345,"Paid Ads",-509,8,16740.60
+411,Customer_411,"Paid Ads",-316,5,16705.18
+54,Customer_54,Referral,-494,8,16666.72
+225,Customer_225,"Organic Search",-601,5,16666.28
+524,Customer_524,"Social Media",-457,9,16623.92
+697,Customer_697,Referral,-446,5,16611.68
+961,Customer_961,Email,-579,8,16550.05
+274,Customer_274,Referral,-439,7,16527.88
+863,Customer_863,"Social Media",-579,9,16435.60
+829,Customer_829,"Social Media",-549,7,16395.02
+298,Customer_298,Email,-541,6,16370.43
+463,Customer_463,Referral,-510,9,16353.72
+915,Customer_915,Referral,-580,6,16182.74
+776,Customer_776,"Paid Ads",-460,9,16072.87
+930,Customer_930,"Social Media",-599,6,16019.75
+794,Customer_794,"Social Media",-538,11,15922.82
+632,Customer_632,"Organic Search",-592,7,15875.87
+733,Customer_733,Email,-582,8,15812.24
+158,Customer_158,Email,-574,9,15802.77
+400,Customer_400,"Organic Search",-496,5,15719.97
+694,Customer_694,"Social Media",-522,5,15719.15
+313,Customer_313,Referral,-480,7,15631.93
+153,Customer_153,Referral,-581,8,15607.77
+270,Customer_270,"Social Media",-562,9,15548.49
+171,Customer_171,Referral,-528,9,15538.60
+791,Customer_791,"Organic Search",-605,6,15472.22
+329,Customer_329,"Organic Search",-536,7,15421.88
+763,Customer_763,"Social Media",-200,4,15420.29
+389,Customer_389,"Paid Ads",-540,8,15367.03
+305,Customer_305,"Organic Search",-603,7,15316.01
+509,Customer_509,"Social Media",-548,6,15315.83
+882,Customer_882,Referral,-538,9,15309.97
+725,Customer_725,"Organic Search",-602,8,15276.30
+462,Customer_462,"Paid Ads",-554,8,15251.84
+724,Customer_724,"Organic Search",-517,4,15235.45
+668,Customer_668,"Paid Ads",-560,4,15208.60
+426,Customer_426,"Paid Ads",-600,5,15169.00
+230,Customer_230,Referral,-435,6,15111.32
+503,Customer_503,Referral,-532,11,15099.26
+609,Customer_609,"Paid Ads",-281,6,15066.24
+383,Customer_383,"Social Media",-571,7,14944.62
+282,Customer_282,Referral,-586,5,14807.31
+395,Customer_395,"Paid Ads",-500,10,14774.04
+299,Customer_299,Referral,-485,12,14769.05
+580,Customer_580,"Organic Search",-587,8,14712.17
+413,Customer_413,"Organic Search",-602,4,14528.39
+768,Customer_768,Email,-465,6,14514.61
+275,Customer_275,Email,-570,5,14480.39
+361,Customer_361,Email,-594,6,14424.68
+504,Customer_504,Referral,-396,7,14403.99
+809,Customer_809,"Organic Search",-345,7,14392.25
+248,Customer_248,"Social Media",-579,6,14285.87
+15,Customer_15,"Paid Ads",-527,9,14269.44
+872,Customer_872,"Organic Search",-451,7,14234.84
+341,Customer_341,Email,-511,8,14174.25
+956,Customer_956,"Organic Search",-590,7,14166.05
+730,Customer_730,"Social Media",-260,4,14056.34
+720,Customer_720,"Organic Search",-568,5,13974.48
+644,Customer_644,"Paid Ads",-512,10,13896.08
+417,Customer_417,"Social Media",-536,5,13810.81
+315,Customer_315,"Organic Search",-585,6,13771.04
+326,Customer_326,Referral,-458,7,13757.73
+103,Customer_103,"Organic Search",-594,9,13752.10
+364,Customer_364,Referral,-547,6,13723.98
+353,Customer_353,Referral,-545,7,13713.96
+782,Customer_782,"Paid Ads",-582,11,13709.52
+816,Customer_816,"Organic Search",-574,8,13684.99
+871,Customer_871,Referral,-518,7,13682.68
+322,Customer_322,"Social Media",-51,5,13551.31
+307,Customer_307,"Organic Search",-603,6,13502.72
+95,Customer_95,"Social Media",-525,6,13483.49
+615,Customer_615,"Social Media",-542,6,13475.42
+407,Customer_407,"Organic Search",-489,7,13424.16
+355,Customer_355,Referral,-444,4,13420.57
+681,Customer_681,"Social Media",-604,6,13409.08
+370,Customer_370,"Social Media",-527,9,13400.95
+380,Customer_380,Referral,-600,4,13391.86
+37,Customer_37,"Paid Ads",-515,7,13362.49
+272,Customer_272,Email,-589,4,13350.57
+792,Customer_792,"Paid Ads",-573,7,13346.74
+647,Customer_647,"Social Media",-592,6,13337.88
+645,Customer_645,"Social Media",-525,6,13319.97
+169,Customer_169,"Social Media",-537,9,13312.32
+755,Customer_755,Referral,-606,6,13263.19
+297,Customer_297,"Social Media",-457,9,13241.68
+921,Customer_921,"Social Media",-555,7,13238.94
+430,Customer_430,Email,-333,7,13169.05
+824,Customer_824,"Organic Search",-507,8,13123.23
+214,Customer_214,"Paid Ads",-594,4,13090.89
+919,Customer_919,"Social Media",-581,6,13050.17
+87,Customer_87,Email,-535,9,12998.74
+716,Customer_716,Referral,-475,7,12994.59
+722,Customer_722,"Social Media",-473,6,12966.35
+208,Customer_208,"Organic Search",-442,5,12938.98
+190,Customer_190,"Organic Search",-553,7,12933.94
+145,Customer_145,"Social Media",-414,4,12912.05
+738,Customer_738,"Paid Ads",-564,6,12858.01
+488,Customer_488,Email,-526,10,12821.72
+196,Customer_196,"Paid Ads",-533,5,12783.82
+258,Customer_258,"Paid Ads",-555,4,12776.80
+232,Customer_232,"Paid Ads",-527,9,12774.42
+844,Customer_844,"Paid Ads",-542,9,12743.10
+331,Customer_331,"Paid Ads",-549,7,12732.80
+253,Customer_253,"Social Media",-555,6,12716.23
+39,Customer_39,"Social Media",-323,5,12706.22
+338,Customer_338,Referral,-486,7,12702.60
+381,Customer_381,"Paid Ads",-516,6,12681.04
+613,Customer_613,"Social Media",-607,7,12644.23
+22,Customer_22,Referral,-489,10,12631.48
+75,Customer_75,"Organic Search",-605,7,12631.33
+104,Customer_104,"Social Media",-592,6,12592.52
+367,Customer_367,"Organic Search",-542,5,12573.48
+741,Customer_741,"Paid Ads",-597,6,12556.65
+177,Customer_177,"Social Media",-558,7,12555.84
+64,Customer_64,Referral,-578,6,12544.16
+732,Customer_732,"Organic Search",-445,7,12522.78
+592,Customer_592,"Social Media",-597,6,12520.52
+544,Customer_544,Email,-604,4,12511.56
+432,Customer_432,"Social Media",-527,7,12508.69
+262,Customer_262,"Social Media",-604,8,12484.00
+912,Customer_912,"Organic Search",-506,4,12465.87
+779,Customer_779,"Organic Search",-297,6,12464.20
+507,Customer_507,"Social Media",-565,6,12464.04
+325,Customer_325,"Organic Search",-561,5,12402.00
+328,Customer_328,"Organic Search",-607,7,12400.83
+501,Customer_501,Referral,-577,7,12341.31
+754,Customer_754,Email,-461,6,12333.47
+864,Customer_864,Referral,-336,7,12317.27
+602,Customer_602,Referral,-563,6,12273.56
+62,Customer_62,"Organic Search",-605,6,12255.14
+2,Customer_2,Email,-594,5,12247.23
+453,Customer_453,"Paid Ads",-598,9,12239.07
+296,Customer_296,"Paid Ads",-598,7,12226.89
+633,Customer_633,Email,-536,4,12224.76
+152,Customer_152,Referral,-369,7,12214.35
+967,Customer_967,"Social Media",-561,5,12206.24
+321,Customer_321,Email,-587,6,12193.68
+68,Customer_68,"Paid Ads",-598,7,12190.35
+210,Customer_210,Email,-374,5,12136.70
+821,Customer_821,Referral,-554,6,12117.89
+950,Customer_950,"Paid Ads",-564,7,12104.30
+795,Customer_795,"Paid Ads",-598,6,12101.29
+478,Customer_478,Email,-578,7,12060.38
+819,Customer_819,"Paid Ads",-449,6,12051.15
+814,Customer_814,"Paid Ads",-539,9,12033.97
+999,Customer_999,"Organic Search",-574,5,11952.36
+798,Customer_798,"Paid Ads",-572,6,11939.68
+986,Customer_986,"Paid Ads",-595,5,11937.04
+342,Customer_342,Referral,-605,5,11919.50
+379,Customer_379,"Paid Ads",-603,7,11896.75
+473,Customer_473,Email,-403,4,11893.03
+913,Customer_913,Email,-559,6,11873.03
+532,Customer_532,"Social Media",-514,9,11838.73
+349,Customer_349,"Social Media",-597,6,11837.61
+893,Customer_893,"Organic Search",-538,5,11831.51
+421,Customer_421,"Social Media",-598,10,11802.41
+310,Customer_310,"Organic Search",-586,3,11746.10
+178,Customer_178,"Social Media",-334,6,11719.53
+879,Customer_879,"Organic Search",-403,6,11658.09
+714,Customer_714,"Paid Ads",-309,7,11587.44
+513,Customer_513,"Paid Ads",-566,4,11572.21
+209,Customer_209,"Social Media",-466,7,11563.92
+603,Customer_603,"Organic Search",-594,6,11563.67
+401,Customer_401,Email,-557,8,11555.50
+826,Customer_826,"Paid Ads",-563,4,11548.49
+588,Customer_588,"Social Media",-489,6,11543.66
+255,Customer_255,"Organic Search",-568,6,11543.57
+180,Customer_180,Email,-492,4,11505.76
+789,Customer_789,Referral,-584,4,11496.10
+558,Customer_558,Email,-594,4,11492.47
+671,Customer_671,Referral,-539,5,11450.03
+67,Customer_67,Email,-600,5,11392.82
+941,Customer_941,"Organic Search",-595,8,11386.15
+631,Customer_631,"Social Media",-487,5,11338.32
+337,Customer_337,Referral,-197,4,11326.16
+121,Customer_121,Email,-601,6,11301.41
+886,Customer_886,"Organic Search",-520,8,11252.35
+709,Customer_709,Email,-577,7,11252.03
+981,Customer_981,"Social Media",-550,7,11251.91
+246,Customer_246,"Organic Search",-599,7,11232.51
+800,Customer_800,"Social Media",-303,6,11218.70
+136,Customer_136,"Paid Ads",-541,7,11205.28
+382,Customer_382,Referral,-595,5,11188.00
+200,Customer_200,"Social Media",-588,5,11186.15
+916,Customer_916,"Social Media",-493,5,11128.18
+147,Customer_147,"Social Media",-400,5,11083.77
+669,Customer_669,Referral,-390,5,11074.26
+176,Customer_176,"Social Media",-561,7,11039.14
+957,Customer_957,Referral,-591,8,11012.47
+599,Customer_599,"Paid Ads",-304,9,11001.22
+751,Customer_751,"Social Media",-522,5,11000.13
+883,Customer_883,Email,-600,6,10962.86
+703,Customer_703,Referral,-550,4,10960.48
+589,Customer_589,Referral,-525,6,10957.16
+44,Customer_44,Referral,-539,4,10952.29
+181,Customer_181,"Social Media",-599,8,10943.20
+980,Customer_980,"Organic Search",-492,6,10941.92
+97,Customer_97,"Paid Ads",-467,5,10926.83
+319,Customer_319,"Social Media",-582,10,10877.34
+496,Customer_496,"Organic Search",-588,3,10868.07
+975,Customer_975,"Social Media",-150,4,10854.60
+938,Customer_938,Referral,-527,5,10848.55
+963,Customer_963,"Organic Search",-485,7,10844.76
+994,Customer_994,"Social Media",-564,4,10781.13
+654,Customer_654,Referral,-546,8,10753.92
+533,Customer_533,Referral,-517,5,10740.53
+835,Customer_835,"Paid Ads",-577,6,10716.78
+880,Customer_880,"Paid Ads",-312,4,10703.68
+479,Customer_479,"Social Media",-447,7,10668.77
+610,Customer_610,"Organic Search",-593,7,10662.23
+267,Customer_267,Referral,-475,6,10658.82
+91,Customer_91,"Paid Ads",-512,5,10653.67
+811,Customer_811,"Organic Search",-469,6,10648.17
+565,Customer_565,Referral,-464,5,10643.14
+486,Customer_486,"Paid Ads",-567,6,10632.81
+352,Customer_352,"Organic Search",-575,4,10621.34
+888,Customer_888,"Organic Search",-480,5,10594.64
+42,Customer_42,Email,-479,6,10570.76
+238,Customer_238,"Paid Ads",-585,6,10522.43
+640,Customer_640,"Organic Search",-595,6,10518.61
+502,Customer_502,Email,-486,4,10514.83
+827,Customer_827,"Paid Ads",-603,6,10506.71
+449,Customer_449,"Organic Search",-596,5,10489.69
+13,Customer_13,Email,-533,8,10454.77
+3,Customer_3,"Organic Search",-396,5,10408.89
+482,Customer_482,"Social Media",-467,4,10402.09
+288,Customer_288,"Social Media",-514,4,10313.65
+281,Customer_281,"Organic Search",-527,6,10313.20
+659,Customer_659,Email,-597,8,10311.52
+414,Customer_414,"Paid Ads",-443,7,10284.07
+959,Customer_959,"Organic Search",-530,4,10245.79
+386,Customer_386,Email,-526,6,10229.82
+129,Customer_129,Email,-582,7,10200.39
+995,Customer_995,Email,-494,4,10185.44
+250,Customer_250,Email,-537,6,10123.74
+217,Customer_217,"Social Media",-567,5,10109.43
+582,Customer_582,Email,-522,4,10099.39
+58,Customer_58,Referral,-607,5,10083.44
+12,Customer_12,Email,-571,5,10082.90
+138,Customer_138,"Social Media",-569,7,10078.62
+424,Customer_424,"Organic Search",-531,6,10066.39
+642,Customer_642,"Social Media",-402,5,10063.41
+86,Customer_86,"Paid Ads",-500,8,10040.86
+33,Customer_33,"Organic Search",-587,9,10038.26
+837,Customer_837,"Organic Search",-494,5,10032.04
+653,Customer_653,Email,-551,5,10014.55
+766,Customer_766,"Social Media",-581,4,10009.57
+404,Customer_404,Email,-589,5,10005.29
+641,Customer_641,Referral,-562,9,10005.27
+534,Customer_534,"Social Media",-515,9,10003.34
+594,Customer_594,Referral,-606,4,9996.98
+110,Customer_110,"Social Media",-551,3,9986.58
+547,Customer_547,"Organic Search",-607,7,9974.21
+43,Customer_43,"Paid Ads",-586,6,9958.58
+953,Customer_953,"Social Media",-527,7,9948.37
+784,Customer_784,"Organic Search",-440,3,9942.43
+204,Customer_204,Referral,-598,6,9936.48
+402,Customer_402,Referral,-577,5,9934.16
+183,Customer_183,"Social Media",-562,5,9904.03
+817,Customer_817,Referral,-567,5,9882.84
+545,Customer_545,Email,-43,3,9881.70
+189,Customer_189,"Paid Ads",-584,3,9875.02
+393,Customer_393,"Organic Search",-469,4,9863.30
+266,Customer_266,"Paid Ads",-604,4,9847.78
+942,Customer_942,"Paid Ads",-499,4,9823.73
+936,Customer_936,Referral,-463,6,9799.90
+279,Customer_279,Referral,-512,5,9792.85
+614,Customer_614,"Paid Ads",-579,8,9782.56
+693,Customer_693,"Social Media",-469,11,9777.84
+510,Customer_510,Referral,-470,3,9773.49
+40,Customer_40,Email,-599,8,9764.23
+818,Customer_818,"Organic Search",-581,8,9763.80
+46,Customer_46,"Social Media",-289,6,9741.72
+687,Customer_687,"Social Media",-560,4,9737.46
+756,Customer_756,"Social Media",-496,5,9718.50
+336,Customer_336,"Social Media",-582,7,9709.69
+5,Customer_5,Email,-605,9,9695.68
+619,Customer_619,Email,-593,4,9691.79
+579,Customer_579,"Social Media",-594,4,9678.83
+744,Customer_744,"Organic Search",-489,6,9638.99
+60,Customer_60,"Organic Search",-535,7,9638.84
+89,Customer_89,Referral,-518,4,9600.92
+365,Customer_365,"Social Media",-600,7,9585.42
+390,Customer_390,Referral,-445,5,9544.04
+549,Customer_549,"Social Media",-529,4,9507.34
+399,Customer_399,"Organic Search",-484,7,9505.33
+490,Customer_490,Referral,-359,4,9489.44
+31,Customer_31,Email,-553,9,9469.23
+726,Customer_726,Referral,-372,6,9468.51
+306,Customer_306,Referral,-578,5,9461.38
+546,Customer_546,Email,-212,5,9428.70
+646,Customer_646,"Social Media",-397,4,9424.12
+540,Customer_540,Referral,-580,6,9423.30
+972,Customer_972,"Organic Search",-595,5,9421.96
+516,Customer_516,"Paid Ads",-562,5,9369.92
+978,Customer_978,"Social Media",-581,9,9332.97
+51,Customer_51,Email,-521,3,9323.13
+696,Customer_696,Referral,-534,6,9314.46
+239,Customer_239,"Organic Search",-594,7,9312.31
+66,Customer_66,"Social Media",-577,10,9299.43
+442,Customer_442,Referral,-596,11,9297.04
+914,Customer_914,Email,-332,5,9250.83
+286,Customer_286,"Paid Ads",-569,5,9246.31
+497,Customer_497,"Organic Search",-510,4,9241.13
+108,Customer_108,Email,-281,8,9228.59
+221,Customer_221,Email,-171,6,9191.37
+946,Customer_946,"Social Media",-579,11,9158.97
+655,Customer_655,Referral,-579,4,9157.78
+940,Customer_940,"Paid Ads",-521,3,9156.58
+803,Customer_803,"Social Media",-575,7,9149.14
+146,Customer_146,Referral,-602,6,9142.42
+997,Customer_997,"Organic Search",-497,6,9138.29
+93,Customer_93,"Paid Ads",-584,4,9134.97
+59,Customer_59,Email,-527,6,9119.58
+292,Customer_292,Email,-331,6,9049.22
+739,Customer_739,Email,-603,9,9005.18
+842,Customer_842,"Social Media",-549,4,8999.46
+198,Customer_198,"Paid Ads",-472,4,8994.64
+408,Customer_408,"Organic Search",-518,3,8988.14
+881,Customer_881,"Paid Ads",-569,6,8946.02
+419,Customer_419,Referral,-605,5,8925.04
+193,Customer_193,"Social Media",-437,6,8913.90
+745,Customer_745,"Organic Search",-546,6,8912.00
+810,Customer_810,"Paid Ads",-539,5,8911.88
+620,Customer_620,Email,-589,7,8904.24
+358,Customer_358,"Organic Search",-600,5,8889.80
+564,Customer_564,"Organic Search",-496,9,8889.65
+982,Customer_982,Referral,-566,6,8877.48
+753,Customer_753,"Paid Ads",-203,6,8855.40
+960,Customer_960,Referral,-524,4,8848.27
+34,Customer_34,Referral,-586,5,8848.24
+263,Customer_263,"Paid Ads",-528,4,8834.65
+597,Customer_597,"Paid Ads",-542,4,8822.89
+757,Customer_757,Email,-578,7,8804.29
+132,Customer_132,Email,-416,5,8794.65
+148,Customer_148,Referral,-496,5,8772.89
+918,Customer_918,"Organic Search",-575,4,8759.30
+900,Customer_900,"Organic Search",-536,6,8739.97
+206,Customer_206,Referral,-533,5,8738.82
+27,Customer_27,"Social Media",-589,4,8727.19
+974,Customer_974,"Organic Search",-295,5,8709.45
+561,Customer_561,Referral,-605,7,8688.40
+271,Customer_271,"Paid Ads",-460,4,8685.83
+151,Customer_151,"Organic Search",-517,4,8670.56
+378,Customer_378,Email,-549,5,8620.99
+406,Customer_406,"Organic Search",-497,6,8620.80
+227,Customer_227,Referral,-605,7,8595.49
+683,Customer_683,Email,-583,7,8564.50
+259,Customer_259,Email,-539,6,8560.36
+846,Customer_846,"Social Media",-602,7,8533.91
+372,Customer_372,"Social Media",-544,3,8519.62
+14,Customer_14,"Organic Search",-582,7,8450.53
+459,Customer_459,Email,-495,6,8441.55
+464,Customer_464,Referral,-582,7,8440.17
+750,Customer_750,"Paid Ads",-458,6,8434.14
+289,Customer_289,"Organic Search",-542,4,8414.36
+112,Customer_112,Referral,-498,4,8413.35
+578,Customer_578,Referral,-82,1,8409.99
+830,Customer_830,Email,-575,5,8374.66
+455,Customer_455,"Social Media",-529,5,8346.06
+851,Customer_851,"Organic Search",-309,5,8340.70
+216,Customer_216,Referral,-548,6,8330.95
+691,Customer_691,Referral,-506,5,8312.97
+433,Customer_433,Email,-451,6,8309.92
+160,Customer_160,"Organic Search",-599,6,8309.62
+973,Customer_973,Referral,-579,3,8283.31
+11,Customer_11,Email,-558,4,8267.49
+813,Customer_813,"Organic Search",-480,5,8231.05
+265,Customer_265,"Social Media",-586,6,8227.63
+568,Customer_568,"Paid Ads",-604,7,8206.19
+252,Customer_252,Referral,-468,5,8166.33
+512,Customer_512,Referral,-441,3,8165.64
+251,Customer_251,"Organic Search",-546,4,8129.75
+680,Customer_680,Email,-599,9,8128.71
+397,Customer_397,Referral,-556,6,8126.57
+574,Customer_574,Referral,-597,7,8118.62
+924,Customer_924,"Paid Ads",-586,7,8109.41
+308,Customer_308,Referral,-536,5,8102.01
+799,Customer_799,"Social Media",-589,5,8100.87
+536,Customer_536,"Organic Search",-528,5,8097.96
+203,Customer_203,"Paid Ads",-410,4,8087.68
+832,Customer_832,"Organic Search",-433,6,8079.38
+122,Customer_122,Referral,-508,3,8064.81
+806,Customer_806,"Organic Search",-518,2,8047.50
+48,Customer_48,"Organic Search",-318,4,8046.23
+229,Customer_229,Email,-451,4,8016.80
+356,Customer_356,"Social Media",-511,8,8016.34
+278,Customer_278,"Organic Search",-507,6,8008.36
+276,Customer_276,"Organic Search",-570,7,7996.77
+373,Customer_373,Referral,-598,5,7988.27
+309,Customer_309,"Social Media",-582,7,7978.52
+815,Customer_815,"Social Media",-427,6,7949.38
+911,Customer_911,"Social Media",-585,4,7935.56
+79,Customer_79,Email,-578,7,7927.84
+519,Customer_519,Referral,-553,6,7899.65
+764,Customer_764,"Paid Ads",-514,6,7898.93
+466,Customer_466,"Paid Ads",-451,6,7891.87
+234,Customer_234,Referral,-596,5,7860.45
+166,Customer_166,Referral,-389,4,7841.51
+850,Customer_850,"Social Media",-559,3,7823.37
+618,Customer_618,Referral,-607,8,7821.43
+480,Customer_480,"Social Media",-572,5,7813.88
+435,Customer_435,Email,-465,6,7795.64
+422,Customer_422,"Organic Search",-529,7,7778.12
+106,Customer_106,Referral,-539,4,7771.26
+878,Customer_878,Referral,-582,7,7770.56
+170,Customer_170,Email,-539,3,7765.64
+235,Customer_235,Email,-577,5,7764.78
+396,Customer_396,Referral,-351,3,7762.10
+398,Customer_398,"Social Media",-551,7,7755.89
+531,Customer_531,"Organic Search",-520,5,7754.68
+460,Customer_460,"Paid Ads",-532,3,7746.38
+82,Customer_82,Email,-602,4,7738.56
+457,Customer_457,"Organic Search",-560,5,7734.40
+585,Customer_585,Email,-514,7,7725.66
+677,Customer_677,Email,-574,6,7724.29
+242,Customer_242,"Organic Search",-524,4,7715.76
+735,Customer_735,Referral,-559,7,7687.44
+600,Customer_600,"Organic Search",-273,6,7675.07
+88,Customer_88,"Paid Ads",-571,5,7664.38
+866,Customer_866,"Social Media",-560,5,7661.59
+935,Customer_935,Referral,-416,4,7661.14
+492,Customer_492,Email,-529,9,7657.82
+374,Customer_374,"Social Media",-408,6,7653.08
+498,Customer_498,"Paid Ads",-413,5,7646.68
+197,Customer_197,Email,-541,3,7644.76
+350,Customer_350,"Paid Ads",-518,10,7614.46
+682,Customer_682,"Organic Search",-468,5,7612.47
+441,Customer_441,"Paid Ads",-507,4,7603.70
+375,Customer_375,Referral,-89,4,7593.64
+786,Customer_786,Referral,-596,7,7582.39
+130,Customer_130,"Social Media",-483,4,7563.70
+575,Customer_575,"Paid Ads",-601,5,7562.20
+423,Customer_423,Email,-523,4,7552.94
+948,Customer_948,"Paid Ads",-504,5,7552.84
+485,Customer_485,Email,-372,5,7533.89
+906,Customer_906,Referral,-141,6,7522.95
+628,Customer_628,"Paid Ads",-448,5,7494.64
+212,Customer_212,"Organic Search",-538,3,7475.24
+109,Customer_109,"Social Media",-607,9,7468.52
+869,Customer_869,Referral,-577,4,7410.19
+363,Customer_363,"Organic Search",-381,6,7403.33
+131,Customer_131,"Paid Ads",-580,6,7403.00
+215,Customer_215,"Social Media",-426,2,7379.12
+518,Customer_518,"Organic Search",-473,3,7345.51
+621,Customer_621,"Organic Search",-452,6,7336.77
+875,Customer_875,Email,-320,6,7330.48
+945,Customer_945,"Organic Search",-548,7,7259.18
+710,Customer_710,"Social Media",-545,4,7224.60
+721,Customer_721,"Paid Ads",-380,3,7189.53
+295,Customer_295,"Organic Search",-561,6,7188.06
+415,Customer_415,Email,-389,4,7186.74
+572,Customer_572,Email,-560,4,7165.78
+672,Customer_672,"Organic Search",-585,6,7163.29
+36,Customer_36,Email,-582,7,7145.25
+123,Customer_123,"Organic Search",-595,7,7121.74
+472,Customer_472,"Organic Search",-473,5,7117.49
+377,Customer_377,Email,-445,4,7116.16
+231,Customer_231,"Organic Search",-592,4,7112.30
+283,Customer_283,Email,-577,5,7101.02
+627,Customer_627,"Paid Ads",-564,5,7098.31
+76,Customer_76,"Paid Ads",-530,6,7086.98
+207,Customer_207,Referral,-440,3,7070.81
+436,Customer_436,Referral,-577,7,7059.26
+586,Customer_586,Email,-581,9,7054.56
+366,Customer_366,Email,-407,4,7038.89
+695,Customer_695,"Paid Ads",-457,4,7037.23
+860,Customer_860,Email,-581,7,7031.31
+909,Customer_909,Referral,-554,8,7021.79
+939,Customer_939,"Paid Ads",-580,6,7014.69
+539,Customer_539,"Paid Ads",-517,6,6991.85
+801,Customer_801,"Paid Ads",-446,7,6968.21
+541,Customer_541,Email,-237,4,6958.04
+219,Customer_219,"Paid Ads",-500,6,6950.81
+686,Customer_686,"Social Media",-395,6,6946.59
+301,Customer_301,Email,-585,7,6920.56
+661,Customer_661,"Social Media",-561,5,6917.20
+273,Customer_273,"Organic Search",-596,8,6916.34
+996,Customer_996,"Organic Search",-552,7,6911.83
+611,Customer_611,Referral,-469,5,6908.93
+859,Customer_859,"Organic Search",-427,3,6904.67
+10,Customer_10,Email,-415,6,6902.52
+899,Customer_899,Referral,-542,8,6898.74
+284,Customer_284,Referral,-427,4,6882.75
+38,Customer_38,Referral,-428,4,6861.73
+949,Customer_949,"Organic Search",-534,4,6850.44
+527,Customer_527,"Paid Ads",-539,4,6821.19
+727,Customer_727,"Paid Ads",-527,3,6802.46
+892,Customer_892,"Organic Search",-428,5,6802.25
+839,Customer_839,"Social Media",-417,6,6796.66
+493,Customer_493,Email,-583,9,6794.57
+562,Customer_562,"Paid Ads",-574,4,6745.89
+474,Customer_474,"Social Media",-510,7,6726.49
+891,Customer_891,"Social Media",-474,6,6720.57
+159,Customer_159,"Social Media",-506,7,6717.80
+831,Customer_831,Referral,-522,5,6684.37
+746,Customer_746,Referral,-537,5,6680.04
+823,Customer_823,"Social Media",-528,5,6674.07
+191,Customer_191,Email,-602,4,6667.22
+302,Customer_302,"Organic Search",-542,8,6665.20
+649,Customer_649,"Social Media",-584,4,6657.03
+451,Customer_451,"Paid Ads",-520,8,6648.14
+971,Customer_971,"Paid Ads",-584,4,6604.50
+347,Customer_347,"Social Media",-578,4,6592.64
+976,Customer_976,Referral,-486,4,6588.71
+140,Customer_140,"Social Media",-531,6,6581.43
+550,Customer_550,"Organic Search",-279,3,6579.85
+187,Customer_187,"Social Media",-567,5,6579.34
+570,Customer_570,Referral,-453,5,6556.54
+185,Customer_185,Email,-482,4,6551.15
+670,Customer_670,"Social Media",-528,7,6544.97
+944,Customer_944,Referral,-603,5,6534.72
+412,Customer_412,"Paid Ads",-579,6,6531.57
+658,Customer_658,Email,-600,5,6528.71
+469,Customer_469,"Paid Ads",-400,3,6465.65
+612,Customer_612,"Paid Ads",-491,3,6445.42
+99,Customer_99,Referral,-470,6,6429.84
+327,Customer_327,"Social Media",-301,3,6417.26
+173,Customer_173,"Organic Search",-483,5,6402.81
+965,Customer_965,"Social Media",-604,4,6385.23
+346,Customer_346,Email,-583,6,6384.70
+344,Customer_344,"Social Media",-542,5,6380.15
+877,Customer_877,Email,-580,7,6356.45
+467,Customer_467,Referral,-543,3,6351.61
+199,Customer_199,Referral,-575,6,6347.66
+625,Customer_625,"Social Media",-460,4,6306.32
+320,Customer_320,Email,-347,6,6291.70
+65,Customer_65,"Social Media",-531,4,6273.35
+124,Customer_124,"Paid Ads",-559,3,6265.09
+98,Customer_98,"Paid Ads",-533,4,6262.78
+704,Customer_704,"Social Media",-600,7,6254.75
+143,Customer_143,Referral,-508,7,6240.36
+765,Customer_765,"Social Media",-558,6,6227.15
+793,Customer_793,Referral,-422,4,6217.47
+943,Customer_943,"Paid Ads",-601,4,6213.73
+970,Customer_970,"Organic Search",-444,8,6207.92
+607,Customer_607,"Social Media",-588,8,6205.59
+639,Customer_639,"Social Media",-542,4,6196.67
+968,Customer_968,"Organic Search",-606,3,6190.24
+318,Customer_318,"Paid Ads",-577,5,6170.08
+410,Customer_410,"Paid Ads",-599,4,6156.87
+470,Customer_470,"Social Media",-384,5,6133.07
+977,Customer_977,"Organic Search",-594,5,6129.94
+969,Customer_969,"Social Media",-515,4,6121.62
+508,Customer_508,"Social Media",-553,3,6109.19
+604,Customer_604,Email,-597,4,6083.99
+77,Customer_77,"Social Media",-590,4,6064.65
+385,Customer_385,Referral,-607,6,6063.48
+35,Customer_35,Email,-520,4,6046.30
+929,Customer_929,"Social Media",-533,4,6045.94
+303,Customer_303,"Organic Search",-510,1,6036.67
+323,Customer_323,"Organic Search",-590,7,6018.88
+165,Customer_165,"Organic Search",-593,6,6012.47
+247,Customer_247,"Organic Search",-505,6,6011.14
+133,Customer_133,"Paid Ads",-395,5,6004.98
+458,Customer_458,"Paid Ads",-573,3,5993.46
+409,Customer_409,"Paid Ads",-352,4,5993.39
+139,Customer_139,Email,-585,5,5990.83
+416,Customer_416,"Social Media",-607,7,5989.91
+699,Customer_699,"Paid Ads",-399,3,5989.84
+155,Customer_155,"Organic Search",-207,4,5986.79
+554,Customer_554,"Paid Ads",-471,4,5983.68
+685,Customer_685,"Social Media",-553,7,5978.84
+394,Customer_394,"Social Media",-557,7,5970.91
+330,Customer_330,Referral,-549,5,5969.97
+526,Customer_526,"Social Media",-603,5,5957.78
+775,Customer_775,"Organic Search",-588,9,5956.23
+571,Customer_571,Email,-117,3,5900.06
+990,Customer_990,Referral,-543,3,5891.47
+360,Customer_360,Referral,-558,3,5885.57
+241,Customer_241,"Social Media",-524,8,5851.51
+174,Customer_174,"Paid Ads",-93,1,5844.68
+119,Customer_119,"Organic Search",-534,7,5823.84
+713,Customer_713,"Paid Ads",-437,1,5771.43
+92,Customer_92,Email,-515,7,5743.40
+873,Customer_873,"Social Media",-401,4,5741.74
+115,Customer_115,Referral,-512,5,5738.45
+557,Customer_557,"Organic Search",-528,4,5737.01
+83,Customer_83,"Social Media",-584,3,5736.86
+987,Customer_987,Referral,-502,3,5735.72
+16,Customer_16,Referral,-528,3,5718.43
+787,Customer_787,"Social Media",-229,4,5686.33
+807,Customer_807,"Paid Ads",-605,8,5652.45
+925,Customer_925,"Social Media",-604,2,5647.93
+548,Customer_548,Referral,-245,5,5638.67
+285,Customer_285,"Social Media",-422,4,5633.44
+964,Customer_964,Referral,-586,4,5633.40
+731,Customer_731,"Organic Search",-79,1,5627.90
+450,Customer_450,Email,-508,6,5626.09
+280,Customer_280,"Organic Search",-462,6,5619.36
+648,Customer_648,Referral,-601,4,5612.81
+118,Customer_118,"Social Media",-399,3,5558.16
+759,Customer_759,"Paid Ads",-544,5,5547.30
+90,Customer_90,"Social Media",-225,2,5539.40
+537,Customer_537,"Paid Ads",-589,3,5485.66
+822,Customer_822,Referral,-532,4,5479.13
+156,Customer_156,Referral,-426,6,5478.20
+927,Customer_927,"Social Media",-550,7,5438.45
+483,Customer_483,Email,-363,5,5437.39
+937,Customer_937,"Paid Ads",-561,4,5434.27
+461,Customer_461,"Organic Search",-522,4,5423.31
+808,Customer_808,"Organic Search",-383,4,5421.74
+8,Customer_8,"Paid Ads",-474,5,5409.28
+679,Customer_679,"Paid Ads",-576,5,5403.69
+222,Customer_222,Referral,-508,2,5380.15
+905,Customer_905,"Organic Search",-471,7,5377.40
+855,Customer_855,"Organic Search",-510,5,5373.49
+629,Customer_629,Referral,-404,2,5357.78
+954,Customer_954,"Organic Search",-547,4,5357.16
+392,Customer_392,Referral,-272,2,5312.03
+343,Customer_343,"Organic Search",-557,5,5310.96
+887,Customer_887,"Paid Ads",-561,3,5309.90
+290,Customer_290,"Organic Search",-561,2,5303.37
+73,Customer_73,"Paid Ads",-566,7,5301.89
+538,Customer_538,"Organic Search",-374,3,5298.46
+24,Customer_24,Referral,-444,5,5296.91
+150,Customer_150,"Organic Search",-462,4,5284.81
+447,Customer_447,Referral,-358,5,5284.14
+515,Customer_515,"Paid Ads",-573,5,5270.87
+224,Customer_224,Email,-551,5,5265.20
+243,Customer_243,"Social Media",-555,3,5263.72
+840,Customer_840,Referral,-372,3,5237.51
+688,Customer_688,"Organic Search",-472,4,5228.70
+542,Customer_542,Email,-267,4,5211.20
+202,Customer_202,"Social Media",-501,7,5209.84
+141,Customer_141,Referral,-440,5,5206.69
+420,Customer_420,"Paid Ads",-559,4,5202.90
+737,Customer_737,"Social Media",-478,8,5196.07
+149,Customer_149,"Social Media",-498,3,5195.35
+637,Customer_637,Email,-458,4,5172.62
+418,Customer_418,"Social Media",-351,3,5172.36
+587,Customer_587,Referral,-593,6,5171.77
+261,Customer_261,Email,-513,5,5140.54
+843,Customer_843,Email,-169,4,5134.00
+205,Customer_205,Referral,-461,2,5133.16
+505,Customer_505,"Social Media",-606,4,5129.57
+650,Customer_650,Email,-526,4,5128.94
+868,Customer_868,"Organic Search",-514,7,5125.57
+885,Customer_885,Email,-530,3,5123.78
+521,Customer_521,Email,-524,4,5112.72
+576,Customer_576,"Social Media",-227,2,5067.63
+257,Customer_257,"Paid Ads",-334,1,5048.34
+388,Customer_388,Email,-484,3,5036.53
+52,Customer_52,Referral,-259,3,5028.05
+760,Customer_760,Referral,-568,5,5005.74
+249,Customer_249,"Paid Ads",-397,2,4997.16
+901,Customer_901,"Paid Ads",-597,6,4996.37
+126,Customer_126,Email,-571,6,4996.27
+673,Customer_673,"Organic Search",-517,3,4991.66
+70,Customer_70,Email,-507,4,4965.07
+583,Customer_583,"Social Media",-480,5,4961.77
+984,Customer_984,Email,-423,4,4943.29
+566,Customer_566,Referral,-559,5,4941.51
+805,Customer_805,"Organic Search",-573,3,4939.62
+622,Customer_622,Referral,-429,5,4927.34
+256,Customer_256,Referral,-542,3,4916.49
+439,Customer_439,"Social Media",-480,2,4908.83
+523,Customer_523,"Paid Ads",-481,8,4906.66
+25,Customer_25,"Paid Ads",-446,4,4876.95
+985,Customer_985,"Paid Ads",-552,7,4867.70
+933,Customer_933,"Social Media",-529,6,4857.45
+18,Customer_18,"Organic Search",-580,3,4852.12
+584,Customer_584,"Paid Ads",-496,6,4850.18
+85,Customer_85,"Organic Search",-497,6,4819.67
+706,Customer_706,"Paid Ads",-476,4,4812.35
+907,Customer_907,Email,-24,2,4799.77
+988,Customer_988,"Social Media",-470,4,4791.77
+291,Customer_291,Email,-294,2,4787.31
+636,Customer_636,"Social Media",-584,7,4772.58
+862,Customer_862,Referral,-384,3,4734.47
+495,Customer_495,"Organic Search",-596,4,4729.94
+428,Customer_428,"Social Media",-434,2,4721.87
+788,Customer_788,Email,-534,3,4720.29
+812,Customer_812,Email,-518,4,4717.00
+78,Customer_78,Email,-518,3,4690.77
+802,Customer_802,"Social Media",-605,4,4672.19
+324,Customer_324,"Organic Search",-573,6,4666.52
+849,Customer_849,"Paid Ads",-244,6,4665.76
+520,Customer_520,"Social Media",-490,3,4660.55
+429,Customer_429,"Social Media",-511,5,4640.42
+828,Customer_828,"Paid Ads",-311,3,4613.58
+45,Customer_45,"Organic Search",-391,4,4591.47
+664,Customer_664,"Paid Ads",-306,4,4569.73
+678,Customer_678,Referral,-599,7,4556.31
+777,Customer_777,Referral,-584,5,4545.97
+898,Customer_898,"Paid Ads",-231,3,4543.21
+335,Customer_335,"Social Media",-528,6,4535.41
+847,Customer_847,"Social Media",-593,5,4524.20
+920,Customer_920,"Social Media",-531,7,4521.48
+192,Customer_192,Referral,-469,2,4500.29
+743,Customer_743,"Social Media",-562,5,4460.61
+184,Customer_184,"Paid Ads",-511,4,4448.79
+962,Customer_962,"Paid Ads",-466,5,4394.00
+137,Customer_137,Email,-526,2,4386.52
+684,Customer_684,Email,-595,4,4384.97
+489,Customer_489,"Organic Search",-426,4,4364.36
+958,Customer_958,Email,-550,5,4363.71
+63,Customer_63,Referral,-566,5,4330.71
+903,Customer_903,Referral,-424,2,4321.19
+244,Customer_244,Email,-519,2,4308.47
+213,Customer_213,"Social Media",-588,4,4265.61
+339,Customer_339,"Organic Search",-590,2,4257.58
+749,Customer_749,Email,-599,4,4244.06
+23,Customer_23,Email,-538,4,4239.62
+445,Customer_445,"Paid Ads",-482,6,4238.18
+351,Customer_351,"Paid Ads",-366,2,4209.76
+387,Customer_387,Referral,-353,4,4175.21
+182,Customer_182,"Social Media",-567,3,4164.15
+142,Customer_142,"Paid Ads",-603,4,4159.67
+260,Customer_260,"Organic Search",-546,3,4121.22
+785,Customer_785,"Social Media",-471,5,4086.88
+4,Customer_4,"Paid Ads",-554,6,4084.49
+371,Customer_371,"Paid Ads",-569,6,4084.20
+657,Customer_657,Referral,-542,4,4072.59
+154,Customer_154,Email,-584,5,4062.48
+870,Customer_870,"Organic Search",-422,5,4045.29
+904,Customer_904,"Social Media",-523,5,4030.13
+125,Customer_125,"Organic Search",-177,6,4028.09
+729,Customer_729,"Social Media",-531,5,4023.77
+606,Customer_606,"Paid Ads",-216,1,4016.72
+405,Customer_405,"Paid Ads",-593,2,4004.21
+314,Customer_314,Email,-557,2,3982.08
+951,Customer_951,"Social Media",-489,3,3962.19
+853,Customer_853,"Social Media",-482,4,3962.12
+41,Customer_41,"Organic Search",-350,5,3942.32
+569,Customer_569,"Paid Ads",-561,9,3916.45
+928,Customer_928,"Social Media",-582,5,3914.94
+845,Customer_845,Email,-517,2,3905.48
+567,Customer_567,"Organic Search",-525,7,3903.83
+676,Customer_676,"Paid Ads",-566,4,3876.70
+491,Customer_491,"Social Media",-558,7,3865.59
+552,Customer_552,Email,-551,3,3852.95
+770,Customer_770,"Paid Ads",-387,4,3849.12
+294,Customer_294,"Paid Ads",-562,2,3837.54
+71,Customer_71,Referral,-479,3,3811.95
+354,Customer_354,"Social Media",-580,5,3791.55
+26,Customer_26,Email,-588,6,3789.88
+195,Customer_195,"Paid Ads",-249,3,3770.13
+28,Customer_28,"Organic Search",-246,2,3762.16
+897,Customer_897,"Social Media",-113,3,3739.33
+861,Customer_861,"Organic Search",-597,3,3717.20
+848,Customer_848,"Social Media",-561,4,3708.99
+865,Customer_865,"Social Media",-415,2,3688.59
+993,Customer_993,"Organic Search",-495,3,3685.29
+675,Customer_675,Referral,-598,6,3662.12
+311,Customer_311,"Social Media",-534,3,3614.07
+651,Customer_651,"Social Media",-294,2,3604.07
+162,Customer_162,"Paid Ads",-588,5,3595.45
+168,Customer_168,"Paid Ads",-536,7,3583.16
+663,Customer_663,"Organic Search",-511,4,3580.52
+163,Customer_163,Email,-389,2,3575.68
+761,Customer_761,"Social Media",-388,3,3575.47
+781,Customer_781,Referral,-604,4,3571.49
+1,Customer_1,"Paid Ads",-593,4,3553.36
+530,Customer_530,Referral,-513,5,3549.95
+707,Customer_707,Email,-557,9,3545.32
+856,Customer_856,"Social Media",-571,1,3530.82
+20,Customer_20,Email,-558,5,3520.29
+376,Customer_376,"Paid Ads",-321,3,3507.61
+820,Customer_820,Email,-148,3,3495.99
+896,Customer_896,"Paid Ads",-601,6,3460.94
+228,Customer_228,Referral,-306,1,3459.75
+890,Customer_890,Email,-167,3,3458.30
+874,Customer_874,"Paid Ads",-480,3,3456.36
+894,Customer_894,"Organic Search",-541,5,3433.78
+772,Customer_772,Referral,-513,5,3427.35
+403,Customer_403,"Paid Ads",-595,6,3397.13
+500,Customer_500,Referral,-504,4,3390.92
+50,Customer_50,"Social Media",-484,4,3389.91
+889,Customer_889,Referral,-539,4,3382.63
+434,Customer_434,"Social Media",-487,2,3377.24
+718,Customer_718,Referral,-602,6,3330.43
+774,Customer_774,"Paid Ads",-598,3,3330.25
+9,Customer_9,Referral,-524,4,3324.97
+333,Customer_333,Email,-605,3,3314.29
+218,Customer_218,Email,-394,2,3290.46
+368,Customer_368,"Social Media",-490,5,3278.39
+690,Customer_690,Email,-295,3,3238.88
+834,Customer_834,"Organic Search",-103,2,3202.23
+179,Customer_179,"Paid Ads",-605,4,3200.54
+998,Customer_998,"Organic Search",-584,7,3199.46
+719,Customer_719,"Organic Search",-261,3,3174.01
+922,Customer_922,"Paid Ads",-606,4,3170.97
+626,Customer_626,Email,-589,5,3139.30
+186,Customer_186,Referral,-564,5,3135.52
+94,Customer_94,"Social Media",-361,3,3134.20
+53,Customer_53,Referral,-195,4,3123.54
+652,Customer_652,Email,-505,3,3110.76
+201,Customer_201,Email,-549,4,3108.46
+477,Customer_477,Email,-198,2,3100.53
+638,Customer_638,Referral,-592,3,3094.09
+838,Customer_838,Referral,-439,3,3075.08
+72,Customer_72,"Social Media",-589,4,3061.10
+854,Customer_854,Email,-555,4,3057.88
+456,Customer_456,"Paid Ads",-234,1,3037.65
+617,Customer_617,"Organic Search",-444,3,2999.94
+742,Customer_742,"Organic Search",-534,4,2965.48
+188,Customer_188,Referral,-415,3,2955.97
+662,Customer_662,Email,-551,2,2954.83
+902,Customer_902,"Paid Ads",-10,2,2946.82
+783,Customer_783,Referral,-591,4,2939.87
+825,Customer_825,Email,-516,7,2938.77
+858,Customer_858,"Organic Search",-574,5,2917.51
+101,Customer_101,Email,-547,3,2902.83
+917,Customer_917,Email,-538,3,2902.55
+790,Customer_790,Email,-581,5,2902.52
+220,Customer_220,Referral,-605,5,2891.50
+804,Customer_804,Referral,-514,4,2882.02
+194,Customer_194,"Paid Ads",-555,4,2856.67
+752,Customer_752,"Organic Search",-370,5,2850.17
+105,Customer_105,Referral,-500,4,2836.84
+120,Customer_120,Email,-573,2,2799.89
+100,Customer_100,"Social Media",-490,4,2788.76
+884,Customer_884,"Organic Search",-201,3,2779.26
+700,Customer_700,Email,-566,5,2759.71
+269,Customer_269,"Paid Ads",-556,3,2757.14
+577,Customer_577,Email,-548,4,2747.62
+728,Customer_728,"Organic Search",-209,5,2737.48
+511,Customer_511,"Organic Search",-477,2,2713.88
+717,Customer_717,Referral,-65,4,2671.07
+635,Customer_635,Email,-399,3,2648.45
+167,Customer_167,Referral,-161,3,2607.64
+17,Customer_17,"Social Media",-189,2,2599.30
+908,Customer_908,"Social Media",-528,4,2597.62
+56,Customer_56,"Paid Ads",-561,4,2591.55
+334,Customer_334,Referral,-502,5,2590.73
+254,Customer_254,Referral,-7,4,2587.95
+240,Customer_240,Referral,-177,3,2579.17
+7,Customer_7,Referral,-600,5,2570.21
+161,Customer_161,Referral,-575,6,2557.35
+555,Customer_555,Referral,-295,1,2552.01
+895,Customer_895,"Social Media",-572,4,2526.97
+268,Customer_268,Email,-561,4,2523.14
+300,Customer_300,Referral,-556,3,2505.93
+175,Customer_175,Referral,-605,4,2491.74
+867,Customer_867,"Organic Search",-340,2,2490.13
+605,Customer_605,"Paid Ads",-462,2,2458.50
+487,Customer_487,"Social Media",-373,2,2453.74
+369,Customer_369,"Social Media",-488,2,2446.69
+362,Customer_362,"Organic Search",42,1,2426.70
+69,Customer_69,"Paid Ads",-574,4,2381.13
+514,Customer_514,"Paid Ads",-387,3,2378.27
+560,Customer_560,Email,-502,6,2352.28
+57,Customer_57,"Paid Ads",-205,1,2350.86
+448,Customer_448,Referral,-583,5,2345.69
+926,Customer_926,Referral,-221,2,2332.46
+80,Customer_80,"Paid Ads",-419,5,2327.71
+431,Customer_431,"Organic Search",-382,3,2312.84
+117,Customer_117,"Social Media",-590,3,2280.98
+543,Customer_543,"Organic Search",-430,3,2274.83
+506,Customer_506,"Social Media",-201,2,2270.73
+134,Customer_134,"Paid Ads",-600,3,2238.02
+708,Customer_708,"Paid Ads",-110,1,2236.65
+833,Customer_833,Email,-477,3,2142.92
+762,Customer_762,"Paid Ads",-343,5,2137.92
+796,Customer_796,"Paid Ads",-303,3,2130.03
+712,Customer_712,"Organic Search",-376,3,2112.57
+616,Customer_616,Email,-413,4,2077.49
+841,Customer_841,"Paid Ads",-587,5,2072.36
+528,Customer_528,"Paid Ads",-326,1,2056.09
+471,Customer_471,"Social Media",-172,1,2019.26
+114,Customer_114,"Paid Ads",-532,3,1983.97
+6,Customer_6,Email,-589,3,1975.92
+357,Customer_357,"Social Media",-191,2,1951.37
+667,Customer_667,"Social Media",-594,4,1932.01
+525,Customer_525,Referral,-447,4,1925.78
+484,Customer_484,"Organic Search",-528,4,1913.00
+734,Customer_734,"Social Media",-350,3,1884.05
+876,Customer_876,Email,-588,6,1876.00
+598,Customer_598,"Organic Search",-564,4,1848.81
+293,Customer_293,"Paid Ads",-279,2,1842.77
+740,Customer_740,"Paid Ads",-385,4,1751.46
+991,Customer_991,"Paid Ads",-492,2,1667.52
+144,Customer_144,"Paid Ads",-169,5,1642.69
+736,Customer_736,"Organic Search",-429,4,1605.83
+559,Customer_559,"Organic Search",-273,2,1594.15
+237,Customer_237,Referral,-581,4,1582.75
+211,Customer_211,Email,-327,3,1579.28
+277,Customer_277,Email,-473,5,1568.21
+979,Customer_979,"Organic Search",-565,2,1536.87
+758,Customer_758,Referral,-468,3,1516.72
+340,Customer_340,"Organic Search",-453,2,1510.62
+236,Customer_236,"Organic Search",-590,3,1494.49
+427,Customer_427,"Organic Search",-259,3,1472.61
+317,Customer_317,"Social Media",-600,5,1449.84
+499,Customer_499,"Paid Ads",-596,2,1415.18
+952,Customer_952,Referral,-392,1,1415.04
+591,Customer_591,"Paid Ads",-493,3,1391.82
+992,Customer_992,Email,-219,3,1378.99
+245,Customer_245,"Paid Ads",-384,4,1361.88
+517,Customer_517,"Social Media",-488,3,1357.73
+593,Customer_593,"Paid Ads",-391,2,1340.25
+522,Customer_522,"Paid Ads",-577,3,1311.74
+665,Customer_665,Referral,-577,1,1238.01
+692,Customer_692,Referral,-469,2,1224.96
+21,Customer_21,"Organic Search",-470,3,1224.09
+989,Customer_989,"Social Media",-151,4,1221.37
+624,Customer_624,"Social Media",12,1,1203.46
+983,Customer_983,"Organic Search",-437,3,1199.51
+164,Customer_164,Email,-552,4,1196.15
+551,Customer_551,"Organic Search",-577,4,1166.98
+773,Customer_773,Email,-185,1,1154.61
+49,Customer_49,"Social Media",-500,1,1131.42
+771,Customer_771,"Paid Ads",20,2,1119.20
+852,Customer_852,"Paid Ads",-607,4,1094.38
+102,Customer_102,"Social Media",-311,2,1065.03
+535,Customer_535,"Social Media",-583,2,1055.88
+348,Customer_348,"Organic Search",-465,2,1055.06
+111,Customer_111,Email,-589,2,1049.15
+656,Customer_656,"Paid Ads",-579,3,1022.11
+384,Customer_384,Email,-419,2,1009.89
+778,Customer_778,"Social Media",-355,1,998.20
+446,Customer_446,"Organic Search",-448,2,996.54
+556,Customer_556,Email,-480,2,992.79
+444,Customer_444,"Organic Search",-557,3,955.70
+573,Customer_573,Referral,-401,3,911.95
+32,Customer_32,"Organic Search",-580,2,864.39
+553,Customer_553,"Organic Search",-3,2,852.95
+715,Customer_715,Email,-311,1,847.98
+705,Customer_705,"Social Media",-570,1,845.61
+135,Customer_135,"Social Media",-298,1,839.91
+19,Customer_19,"Paid Ads",-483,2,818.64
+312,Customer_312,"Organic Search",-543,2,760.45
+698,Customer_698,"Paid Ads",-391,3,710.78
+836,Customer_836,"Organic Search",-355,2,702.06
+923,Customer_923,"Organic Search",-598,4,694.64
+287,Customer_287,Email,0,2,612.19
+226,Customer_226,Referral,-567,3,579.36
+223,Customer_223,"Paid Ads",-457,2,572.83
+438,Customer_438,Referral,-309,2,495.49
+723,Customer_723,Email,-291,1,458.99
+608,Customer_608,"Social Media",-553,2,454.81
+61,Customer_61,Referral,-436,1,453.25
+932,Customer_932,"Social Media",-255,3,443.20
+947,Customer_947,"Organic Search",-383,2,371.11
+966,Customer_966,"Paid Ads",-516,3,351.82
+30,Customer_30,Referral,-510,1,351.68
+748,Customer_748,"Paid Ads",-194,1,345.76
+596,Customer_596,"Paid Ads",-435,2,330.40
+316,Customer_316,"Organic Search",-466,3,301.20
+689,Customer_689,Email,-585,1,266.39
+797,Customer_797,Referral,-371,1,234.62
+630,Customer_630,"Organic Search",-24,1,186.98
+494,Customer_494,Referral,-380,1,172.22
+172,Customer_172,Referral,-524,1,171.18
+643,Customer_643,Email,-194,1,111.10
